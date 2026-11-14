@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 MAX_BYTES = 2_000_000
-TIMEOUT = 20
+TIMEOUT = 10
 RETENTION = dt.timedelta(days=30)
 MAX_ITEMS = 400
 
@@ -41,6 +41,11 @@ def canonical(url):
     q = [(k, v) for k, v in q if not k.lower().startswith('utm_') and k.lower() not in ('fbclid', 'gclid')]
     return urllib.parse.urlunsplit((u.scheme.lower(), u.netloc.lower(), u.path or '/', urllib.parse.urlencode(sorted(q)), ''))
 
+class ParsedItems(list):
+    def __init__(self, items, raw_count, invalid_count, dateless_count):
+        super().__init__(items)
+        self.raw_count, self.invalid_count, self.dateless_count = raw_count, invalid_count, dateless_count
+
 def parse(data, source):
     # Reject DTD and entities rather than allowing internal-entity expansion.
     if re.search(br'<!\s*(DOCTYPE|ENTITY)', data, re.I):
@@ -58,6 +63,7 @@ def parse(data, source):
                 return ''.join(el.itertext()).strip()
         return ''
     out = []
+    invalid_count = dateless_count = 0
     for e in entries:
         ns = '{http://www.w3.org/2005/Atom}'
         title = field(e, ['title', ns+'title', '{http://purl.org/rss/1.0/}title'])
@@ -69,11 +75,15 @@ def parse(data, source):
                 link = candidate.get('href'); break
         link = canonical(urllib.parse.urljoin(source['url'], link)) if link else None
         published = iso(field(e, ['pubDate', ns+'published', ns+'updated', '{http://purl.org/dc/elements/1.1/}date']))
+        if not published: dateless_count += 1
         if title and link and len(link) <= 2048 and published:
             out.append({'id': hashlib.sha256(link.encode()).hexdigest()[:24], 'title': title, 'url': link,
                         'source': source['name'], 'source_id': source['id'], 'published_at': published,
-                        'topics': source.get('topics', [])[:50], 'domains': source.get('domains', [])[:50], 'summary': ''})
-    return out
+                        'topics': source.get('topics', [])[:50], 'domains': source.get('domains', [])[:50], 'summary': '',
+                        **{k: source[k] for k in ('jurisdiction', 'right', 'source_type', 'language') if k in source}})
+        else:
+            invalid_count += 1
+    return ParsedItems(out, len(entries), invalid_count, dateless_count)
 
 class SafeRedirect(urllib.request.HTTPRedirectHandler):
     def __init__(self, hosts): self.hosts = hosts
@@ -102,23 +112,45 @@ def fetch(source, attempts=2):
 
 def collect(sources, old, now, fetcher=fetch):
     checked = now.isoformat().replace('+00:00', 'Z')
+    cutoff = now - RETENTION
     previous = old.get('items', [])
-    records, items, ok = [], [], 0
+    previous_sources = {s.get('id'): s for s in old.get('sources', [])}
+    records, items, successes, automatic = [], [], 0, 0
     for source in sources:
         rec = {k: source[k] for k in ('id', 'name', 'url')}
-        rec['checked_at'] = checked
-        try:
-            found = fetcher(source)
-            rec['status'] = 'complete'; ok += 1
-            items.extend(found)
-        except (OSError, ValueError, ET.ParseError) as exc:
-            rec['status'] = 'failed'; rec['error'] = type(exc).__name__
-            items.extend(i for i in previous if i.get('source_id') == source['id'])
+        rec.update({k: source[k] for k in ('jurisdiction', 'right', 'source_type', 'language') if k in source})
+        rec.update({'checked_at': None, 'raw_count': None, 'accepted_count': None,
+                    'in_window_count': None, 'invalid_count': None, 'dateless_count': None,
+                    'last_successful_at': previous_sources.get(source['id'], {}).get('last_successful_at')})
+        method = source.get('method', 'rss')
+        if source.get('enabled', True) is False:
+            rec['status'] = 'disabled'
+        elif method == 'manual_only':
+            rec['status'] = 'manual_only'
+        elif method != 'rss':
+            rec['status'] = 'failed'; rec['error'] = 'unsupported_method'; automatic += 1
+        else:
+            automatic += 1
+            rec['checked_at'] = checked
+            try:
+                found = fetcher(source)
+                rec['raw_count'] = getattr(found, 'raw_count', len(found))
+                rec['invalid_count'] = getattr(found, 'invalid_count', 0)
+                rec['dateless_count'] = getattr(found, 'dateless_count', 0)
+                rec['accepted_count'] = len(found)
+                rec['in_window_count'] = sum(1 for i in found if iso(i.get('published_at', '')) and cutoff <= dt.datetime.fromisoformat(iso(i['published_at']).replace('Z', '+00:00')) <= now)
+                rec['status'] = 'partial' if rec['invalid_count'] else 'complete'
+                if rec['status'] == 'complete':
+                    rec['last_successful_at'] = checked
+                    successes += 1
+                else:
+                    rec['error'] = 'entries_withheld'
+                items.extend(found)
+            except (OSError, ValueError, ET.ParseError) as exc:
+                rec['status'] = 'failed'; rec['error'] = type(exc).__name__
         records.append(rec)
-    # Retain prior dated items from successful sources too, since feeds are often short.
     valid_ids = {s['id'] for s in sources}
     items.extend(i for i in previous if i.get('source_id') in valid_ids)
-    cutoff = now - RETENTION
     dedup = {}
     for item in items:
         date = iso(item.get('published_at', ''))
@@ -128,10 +160,10 @@ def collect(sources, old, now, fetcher=fetch):
         if not cutoff <= parsed <= now: continue
         if url not in dedup: dedup[url] = item
     ranked = sorted(dedup.values(), key=lambda i: i['published_at'], reverse=True)[:MAX_ITEMS]
-    status = 'complete' if ok == len(sources) and sources else 'partial' if ok else 'failed'
-    return {'schema_version': 1, 'generated_at': checked, 'last_successful_at': checked if ok else old.get('last_successful_at'), 'status': status,
+    status = 'complete' if automatic and successes == automatic else 'partial' if any(r['status'] in ('complete', 'partial') for r in records) else 'failed'
+    return {'schema_version': 1, 'generated_at': checked, 'last_successful_at': checked if any(r['status'] in ('complete', 'partial') for r in records) else old.get('last_successful_at'), 'status': status,
+            'coverage_note': 'Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.',
             'sources': records, 'items': ranked}
-
 def main():
     sources = json.loads((ROOT / 'sources.json').read_text(encoding='utf-8'))
     path = ROOT / 'feed.json'
@@ -145,4 +177,7 @@ def main():
     return 1 if result['status'] == 'failed' else 0
 
 if __name__ == '__main__': sys.exit(main())
+
+
+
 

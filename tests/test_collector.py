@@ -55,5 +55,35 @@ class CollectorTests(unittest.TestCase):
             self.assertEqual(len(collector.fetch(SOURCE)), 1)
         self.assertEqual(opener.calls, 2)
 
+    def test_accounting_empty_dateless_and_metadata(self):
+        meta = dict(SOURCE, jurisdiction='UK', right='patents', source_type='office', language='en')
+        xml = b'<rss><channel><item><title>Undated</title><link>https://example.com/a</link></item></channel></rss>'
+        result = collector.collect([meta], {}, NOW, lambda s: collector.parse(xml, s))
+        r = result['sources'][0]
+        self.assertEqual((r['raw_count'], r['accepted_count'], r['in_window_count'], r['invalid_count'], r['dateless_count']), (1, 0, 0, 1, 1))
+        self.assertEqual((r['status'], r['error']), ('partial', 'entries_withheld'))
+        self.assertIsNone(r['last_successful_at'])
+        good = collector.collect([meta], {}, NOW, lambda s: collector.parse(RSS, s))
+        self.assertEqual(good['items'][0]['jurisdiction'], 'UK')
+        empty = collector.collect([meta], {}, NOW, lambda s: collector.parse(b'<rss><channel/></rss>', s))
+        self.assertEqual((empty['status'], empty['sources'][0]['raw_count']), ('complete', 0))
+    def test_manual_disabled_and_failed_counts(self):
+        manual = dict(SOURCE, id='manual', method='manual_only')
+        disabled = dict(SOURCE, id='disabled', enabled=False)
+        calls = []
+        def run(s):
+            calls.append(s['id'])
+            return collector.parse(RSS, s)
+        result = collector.collect([SOURCE, manual, disabled], {}, NOW, run)
+        self.assertEqual(calls, ['one'])
+        self.assertEqual([r['status'] for r in result['sources']], ['complete', 'manual_only', 'disabled'])
+        self.assertIsNone(result['sources'][1]['checked_at'])
+        self.assertIsNone(result['sources'][2]['raw_count'])
+        def fail(s): raise OSError('sensitive text')
+        failed = collector.collect([SOURCE], result, NOW + dt.timedelta(days=1), fail)
+        self.assertEqual(failed['sources'][0]['last_successful_at'], result['sources'][0]['last_successful_at'])
+        self.assertIsNone(failed['sources'][0]['raw_count'])
+        self.assertNotIn('sensitive text', str(failed))
 if __name__ == '__main__': unittest.main()
+
 

@@ -11,7 +11,11 @@
     ],
     "topics": [
       "intellectual property"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "uk-science",
@@ -26,7 +30,11 @@
     ],
     "topics": [
       "science and innovation"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "uk-energy",
@@ -41,7 +49,11 @@
     ],
     "topics": [
       "energy"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "uk-business",
@@ -55,7 +67,11 @@
     ],
     "topics": [
       "business and trade"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "uk-competition",
@@ -69,7 +85,11 @@
     ],
     "topics": [
       "competition"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "uk-research",
@@ -84,7 +104,11 @@
     ],
     "topics": [
       "research and innovation"
-    ]
+    ],
+    "jurisdiction": "UK",
+    "language": "en",
+    "source_type": "government",
+    "method": "rss"
   },
   {
     "id": "arxiv-materials",
@@ -99,7 +123,11 @@
     ],
     "topics": [
       "materials science"
-    ]
+    ],
+    "jurisdiction": "International",
+    "language": "en",
+    "source_type": "research preprints",
+    "method": "rss"
   },
   {
     "id": "arxiv-physics",
@@ -114,7 +142,11 @@
     ],
     "topics": [
       "applied physics"
-    ]
+    ],
+    "jurisdiction": "International",
+    "language": "en",
+    "source_type": "research preprints",
+    "method": "rss"
   },
   {
     "id": "arxiv-systems",
@@ -129,7 +161,315 @@
     ],
     "topics": [
       "systems and control"
+    ],
+    "jurisdiction": "International",
+    "language": "en",
+    "source_type": "research preprints",
+    "method": "rss"
+  },
+  {
+    "id": "us-cafc-opinions",
+    "name": "US Federal Circuit opinions and orders",
+    "jurisdiction": "United States",
+    "source_type": "court",
+    "language": "en",
+    "url": "https://www.cafc.uscourts.gov/category/opinion-order/feed/",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "court opinions"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.cafc.uscourts.gov"
     ]
+  },
+  {
+    "id": "us-cafc-notices",
+    "name": "US Federal Circuit general notices",
+    "jurisdiction": "United States",
+    "source_type": "court",
+    "language": "en",
+    "url": "https://www.cafc.uscourts.gov/category/general-announcement/feed/",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "court announcements"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.cafc.uscourts.gov"
+    ]
+  },
+  {
+    "id": "epo-news",
+    "name": "European Patent Office news",
+    "jurisdiction": "EPO/EPC",
+    "source_type": "IP office",
+    "language": "en",
+    "url": "https://www.epo.org/en/news-events/news/feed",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "intellectual property"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.epo.org"
+    ]
+  },
+  {
+    "id": "epo-boards",
+    "name": "EPO boards of appeal communications",
+    "jurisdiction": "EPO/EPC",
+    "source_type": "IP tribunal",
+    "language": "en",
+    "url": "https://www.epo.org/en/law-and-practice/boards-of-appeal/communications/feed",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "patent law"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.epo.org"
+    ]
+  },
+  {
+    "id": "wipo-press",
+    "name": "WIPO press releases",
+    "jurisdiction": "International",
+    "source_type": "IP organisation",
+    "language": "en",
+    "url": "https://www.wipo.int/pressroom/en/rss.xml",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "intellectual property"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.wipo.int"
+    ]
+  },
+  {
+    "id": "wipo-economics",
+    "name": "WIPO IP and economics",
+    "jurisdiction": "International",
+    "source_type": "IP organisation",
+    "language": "en",
+    "url": "https://www.wipo.int/en/web/economics/news/-/journal/rss/743893/7224673",
+    "domains": [
+      "commercial",
+      "research"
+    ],
+    "topics": [
+      "IP economics"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.wipo.int"
+    ]
+  },
+  {
+    "id": "canada-cipo",
+    "name": "Canadian Intellectual Property Office news",
+    "jurisdiction": "Canada",
+    "source_type": "IP office",
+    "language": "en",
+    "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Canadian+Intellectual+Property+Office&dept=intellectualpropertyoffice&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "intellectual property"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "api.io.canada.ca"
+    ]
+  },
+  {
+    "id": "canada-innovation",
+    "name": "Innovation Science and Economic Development Canada",
+    "jurisdiction": "Canada",
+    "source_type": "government innovation",
+    "language": "en",
+    "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Innovation%2C+Science+and+Economic+Development+Canada&dept=departmentofindustry&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+    "domains": [
+      "research",
+      "commercial"
+    ],
+    "topics": [
+      "innovation"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "api.io.canada.ca"
+    ]
+  },
+  {
+    "id": "canada-nrc",
+    "name": "National Research Council Canada",
+    "jurisdiction": "Canada",
+    "source_type": "government research",
+    "language": "en",
+    "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=National+Research+Council+Canada&dept=nationalresearchcouncil&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "research"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "api.io.canada.ca"
+    ]
+  },
+  {
+    "id": "canada-resources",
+    "name": "Natural Resources Canada",
+    "jurisdiction": "Canada",
+    "source_type": "government energy",
+    "language": "en",
+    "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Natural+Resources+Canada&dept=naturalresourcescanada&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+    "domains": [
+      "technology",
+      "commercial"
+    ],
+    "topics": [
+      "energy"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "api.io.canada.ca"
+    ]
+  },
+  {
+    "id": "us-doe-science",
+    "name": "US DOE Office of Science",
+    "jurisdiction": "United States",
+    "source_type": "government research",
+    "language": "en",
+    "url": "https://www.energy.gov/rss/science/3662442",
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "science"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.energy.gov"
+    ]
+  },
+  {
+    "id": "us-doe-vehicles",
+    "name": "US DOE vehicles news",
+    "jurisdiction": "United States",
+    "source_type": "government technology",
+    "language": "en",
+    "url": "https://www.energy.gov/rss/cmei-vehicles/796431",
+    "domains": [
+      "technology"
+    ],
+    "topics": [
+      "vehicles",
+      "energy"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.energy.gov"
+    ]
+  },
+  {
+    "id": "us-doe-commercial",
+    "name": "US DOE technology commercialization",
+    "jurisdiction": "United States",
+    "source_type": "government commercialisation",
+    "language": "en",
+    "url": "https://www.energy.gov/rss/technologycommercialization/1539436",
+    "domains": [
+      "technology",
+      "commercial"
+    ],
+    "topics": [
+      "commercialisation"
+    ],
+    "method": "rss",
+    "allowed_hosts": [
+      "www.energy.gov"
+    ]
+  },
+  {
+    "id": "manual-0",
+    "name": "USPTO IP news",
+    "url": "https://www.uspto.gov/about-us/news-updates",
+    "method": "manual_only",
+    "jurisdiction": "United States",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-1",
+    "name": "Unified Patent Court",
+    "url": "https://www.unified-patent-court.org/en/news",
+    "method": "manual_only",
+    "jurisdiction": "UPC",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-2",
+    "name": "CNIPA English",
+    "url": "https://english.cnipa.gov.cn/",
+    "method": "manual_only",
+    "jurisdiction": "China",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-3",
+    "name": "IP Australia",
+    "url": "https://www.ipaustralia.gov.au/about-us/news-and-community",
+    "method": "manual_only",
+    "jurisdiction": "Australia",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-4",
+    "name": "Japan Patent Office",
+    "url": "https://www.jpo.go.jp/e/news/index.html",
+    "method": "manual_only",
+    "jurisdiction": "Japan",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-5",
+    "name": "Korean Intellectual Property Office",
+    "url": "https://www.kipo.go.kr/en/",
+    "method": "manual_only",
+    "jurisdiction": "Korea",
+    "language": "en",
+    "source_type": "official source - collection gap"
+  },
+  {
+    "id": "manual-6",
+    "name": "Office of Controller General of Patents Designs and Trade Marks",
+    "url": "https://ipindia.gov.in/",
+    "method": "manual_only",
+    "jurisdiction": "India",
+    "language": "en",
+    "source_type": "official source - collection gap"
   }
 ]
 
