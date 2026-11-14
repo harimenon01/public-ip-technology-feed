@@ -1,0 +1,135 @@
+[
+  {
+    "id": "uk-ipo",
+    "name": "UK Intellectual Property Office",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=intellectual-property-office",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "intellectual property"
+    ]
+  },
+  {
+    "id": "uk-science",
+    "name": "UK Science, Innovation and Technology",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "science and innovation"
+    ]
+  },
+  {
+    "id": "uk-energy",
+    "name": "UK Energy Security and Net Zero",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "technology",
+      "commercial"
+    ],
+    "topics": [
+      "energy"
+    ]
+  },
+  {
+    "id": "uk-business",
+    "name": "UK Business and Trade",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-business-and-trade",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "business and trade"
+    ]
+  },
+  {
+    "id": "uk-competition",
+    "name": "UK Competition and Markets Authority",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=competition-and-markets-authority",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "commercial"
+    ],
+    "topics": [
+      "competition"
+    ]
+  },
+  {
+    "id": "uk-research",
+    "name": "UK Research and Innovation",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-research-and-innovation",
+    "allowed_hosts": [
+      "www.gov.uk"
+    ],
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "research and innovation"
+    ]
+  },
+  {
+    "id": "arxiv-materials",
+    "name": "arXiv Materials Science",
+    "url": "https://rss.arxiv.org/rss/cond-mat.mtrl-sci",
+    "allowed_hosts": [
+      "rss.arxiv.org"
+    ],
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "materials science"
+    ]
+  },
+  {
+    "id": "arxiv-physics",
+    "name": "arXiv Applied Physics",
+    "url": "https://rss.arxiv.org/rss/physics.app-ph",
+    "allowed_hosts": [
+      "rss.arxiv.org"
+    ],
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "applied physics"
+    ]
+  },
+  {
+    "id": "arxiv-systems",
+    "name": "arXiv Systems and Control",
+    "url": "https://rss.arxiv.org/rss/eess.SY",
+    "allowed_hosts": [
+      "rss.arxiv.org"
+    ],
+    "domains": [
+      "research",
+      "technology"
+    ],
+    "topics": [
+      "systems and control"
+    ]
+  }
+]
+
