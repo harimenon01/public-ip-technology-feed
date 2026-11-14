@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-14T15:25:56.112873Z",
+  "last_successful_at": "2026-11-14T15:25:56.112873Z",
+  "status": "complete",
+  "sources": [
+    {
+      "id": "uk-ipo",
+      "name": "UK Intellectual Property Office",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=intellectual-property-office",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "uk-science",
+      "name": "UK Science, Innovation and Technology",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "uk-energy",
+      "name": "UK Energy Security and Net Zero",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "uk-business",
+      "name": "UK Business and Trade",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-business-and-trade",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "uk-competition",
+      "name": "UK Competition and Markets Authority",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=competition-and-markets-authority",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "uk-research",
+      "name": "UK Research and Innovation",
+      "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-research-and-innovation",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "arxiv-materials",
+      "name": "arXiv Materials Science",
+      "url": "https://rss.arxiv.org/rss/cond-mat.mtrl-sci",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "arxiv-physics",
+      "name": "arXiv Applied Physics",
+      "url": "https://rss.arxiv.org/rss/physics.app-ph",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    },
+    {
+      "id": "arxiv-systems",
+      "name": "arXiv Systems and Control",
+      "url": "https://rss.arxiv.org/rss/eess.SY",
+      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "status": "complete"
+    }
+  ],
+  "items": [
+    {
+      "id": "db9e16bd00591172cc755575",
+      "title": "Global clean electricity to cut bills and boost energy security",
+      "url": "https://www.gov.uk/government/news/global-clean-electricity-to-cut-bills-and-boost-energy-security",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-12T17:06:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "68ef296d462562011e148a81",
+      "title": "Clean Energy Jobs Fair held in Birmingham",
+      "url": "https://www.gov.uk/government/news/clean-energy-jobs-fair-held-in-birmingham",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-12T15:21:29Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "5bf14b51da4b0a6c99de77ad",
+      "title": "Prime Minister hails major investment in UK renewables",
+      "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-11T06:10:18Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "04079217437ea285cc61fafc",
+      "title": "CMA response to consultation on equal pay and pay discrimination",
+      "url": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-11-10T11:00:41Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "f48f24c4f463aa7608343973",
+      "title": "COP31: what it is and the UK’s priorities",
+      "url": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-09T16:05:58Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "2c0079a5c997bfc300456bb0",
+      "title": "Energy reforms to cut bills and put power back in people's hands",
+      "url": "https://www.gov.uk/government/news/energy-reforms-to-cut-bills-and-put-power-back-in-peoples-hands",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-04T13:00:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "d84135475f25f364edecde60",
+      "title": "CMA publishes decision in strategic review of market remedies",
+      "url": "https://www.gov.uk/government/news/cma-publishes-decision-in-strategic-review-of-market-remedies",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-11-04T11:30:20Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "6e6715c0284c1ce42c06fceb",
+      "title": "Designers to get stronger and simpler protection in major reforms",
+      "url": "https://www.gov.uk/government/news/designers-to-get-stronger-and-simpler-protection-in-major-reforms",
+      "source": "UK Intellectual Property Office",
+      "source_id": "uk-ipo",
+      "published_at": "2026-11-04T11:09:18Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "05ff19f7fee094ffd2c0c179",
+      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
+      "url": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-04T09:30:06Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "f0e50cae41ff497660f1e6f6",
+      "title": "Bringing clean solar power to communities in Bangladesh",
+      "url": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-04T09:30:06Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "373f8f19889773ac2a6065a1",
+      "title": "Giant 12-tonne box lowered into place for fusion upgrade",
+      "url": "https://www.gov.uk/government/news/giant-12-tonne-box-lowered-into-place-for-fusion-upgrade",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-03T09:24:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "283a66cf1abd44c196804643",
+      "title": "Hundreds of employers handed penalties for illegally underpaying workers",
+      "url": "https://www.gov.uk/government/news/hundreds-of-employers-handed-penalties-for-illegally-underpaying-workers",
+      "source": "UK Business and Trade",
+      "source_id": "uk-business",
+      "published_at": "2026-11-02T12:09:14Z",
+      "topics": [
+        "business and trade"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "a5ef481ecd88287cccef8f95",
+      "title": "Online retailers: including mandatory delivery fees in the total price",
+      "url": "https://www.gov.uk/government/publications/online-retailers-including-mandatory-delivery-fees-in-the-total-price",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-11-02T10:07:18Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "27344f7c09f42d7feb83279f",
+      "title": "IPO campaign launched as toxicants found in counterfeit beauty products",
+      "url": "https://www.gov.uk/government/news/ipo-campaign-launched-as-toxins-found-in-counterfeit-beauty-products",
+      "source": "UK Intellectual Property Office",
+      "source_id": "uk-ipo",
+      "published_at": "2026-11-02T09:00:00Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "ba86ecc772c6c25ec3721bb2",
+      "title": "Major undersea power cable given green light",
+      "url": "https://www.gov.uk/government/news/major-undersea-power-cable-given-green-light",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-30T16:32:23Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "4a7c6ca3d25b4b22a4cc9dd0",
+      "title": "CMA opens investigation into Meta’s commercial terms",
+      "url": "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-10-30T12:05:53Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "abddc183b45fcbddb71fac99",
+      "title": "What the Autumn Budget 2026 means for your energy bills",
+      "url": "https://www.gov.uk/government/news/what-the-autumn-budget-2026-means-for-your-energy-bills",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-28T16:19:43Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "8cbf80ccc312f76b203e210b",
+      "title": "Chancellor abolishes standing charges on gas bills to make payments fairer",
+      "url": "https://www.gov.uk/government/news/chancellor-abolishes-standing-charges-on-gas-bills-to-make-payments-fairer",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-28T09:31:06Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "4b5c9c5254e72b125378699c",
+      "title": "New digital patents services have launched",
+      "url": "https://www.gov.uk/government/news/new-digital-patents-services-have-launched",
+      "source": "UK Intellectual Property Office",
+      "source_id": "uk-ipo",
+      "published_at": "2026-10-27T14:02:11Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "b0f239c091f2783957c89ba0",
+      "title": "Warm Homes Loan Scheme: Factsheet",
+      "url": "https://www.gov.uk/government/news/warm-homes-loan-scheme-factsheet",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-27T13:00:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "876a182b7dc6b3fc76c451dc",
+      "title": "Government welcomes Official Partners for COP31 Pavilion",
+      "url": "https://www.gov.uk/government/news/government-welcomes-official-partners-for-cop31-pavilion",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-26T15:21:31Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "24479e7eb3bb0fec1a2633e6",
+      "title": "Oil and gas: OPRED communications, 2026",
+      "url": "https://www.gov.uk/government/publications/oil-and-gas-opred-communications-2026",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-26T10:40:50Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "fea8c41599ee84ec8a16e1f9",
+      "title": "Jackdaw gas field gets green light",
+      "url": "https://www.gov.uk/government/news/jackdaw-gas-field-gets-green-light",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-23T16:30:25Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "c850201cf6c7b420cd63873a",
+      "title": "The role of heat networks in the energy transition",
+      "url": "https://www.gov.uk/government/speeches/the-role-of-heat-networks-in-the-energy-transition",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-23T14:43:34Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "ce044337aa4bd07afc72422b",
+      "title": "Strategic Spatial Energy Plan (SSEP): timeline extension",
+      "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-ssep-timeline-extension",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-23T10:05:02Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "d076eecdc7f3a423fabd6c19",
+      "title": "Strategic Spatial Energy Plan: deadline extension",
+      "url": "https://www.gov.uk/government/publications/strategic-spatial-energy-plan-deadline-extension",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-23T10:00:02Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "8a2483f2840eba228e84ff8e",
+      "title": "Households to receive £150 Warm Home Discount confirmation letter",
+      "url": "https://www.gov.uk/government/news/households-to-receive-150-warm-home-discount-confirmation-letter",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-22T09:46:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "e51aee2f09207b36edf53312",
+      "title": "Aldi and Lidl will be subject to same rules as major supermarkets",
+      "url": "https://www.gov.uk/government/news/aldi-and-lidl-will-be-subject-to-same-rules-as-major-supermarkets",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-10-22T09:02:23Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "1068a49b20de7242a0a67a37",
+      "title": "Nuclear collaboration completes its mission",
+      "url": "https://www.gov.uk/government/news/nuclear-collaboration-completes-its-mission",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-10-21T15:28:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "cc4dc36763e44f8782468a49",
+      "title": "CMA outlines proposals to unlock contactless technology on Apple iPhone",
+      "url": "https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-10-20T10:00:00Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    },
+    {
+      "id": "3bbd8a57e518e3fcc60e8d9d",
+      "title": "CMA takes first steps to ensure choice in business software",
+      "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
+      "source": "UK Competition and Markets Authority",
+      "source_id": "uk-competition",
+      "published_at": "2026-10-16T09:00:00Z",
+      "topics": [
+        "competition"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": ""
+    }
+  ]
+}
