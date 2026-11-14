@@ -1,74 +1,1251 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T15:25:56.112873Z",
-  "last_successful_at": "2026-11-14T15:25:56.112873Z",
+  "generated_at": "2026-11-14T15:41:37.744608Z",
+  "last_successful_at": "2026-11-14T15:41:37.744608Z",
   "status": "complete",
+  "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
     {
       "id": "uk-ipo",
       "name": "UK Intellectual Property Office",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=intellectual-property-office",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 3,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "uk-science",
       "name": "UK Science, Innovation and Technology",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-science-innovation-and-technology",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "uk-energy",
       "name": "UK Energy Security and Net Zero",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 20,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "uk-business",
       "name": "UK Business and Trade",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-business-and-trade",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 1,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "uk-competition",
       "name": "UK Competition and Markets Authority",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=competition-and-markets-authority",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 7,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "uk-research",
       "name": "UK Research and Innovation",
       "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-research-and-innovation",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 20,
+      "accepted_count": 20,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "arxiv-materials",
       "name": "arXiv Materials Science",
       "url": "https://rss.arxiv.org/rss/cond-mat.mtrl-sci",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "arxiv-physics",
       "name": "arXiv Applied Physics",
       "url": "https://rss.arxiv.org/rss/physics.app-ph",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
     },
     {
       "id": "arxiv-systems",
       "name": "arXiv Systems and Control",
       "url": "https://rss.arxiv.org/rss/eess.SY",
-      "checked_at": "2026-11-14T15:25:56.112873Z",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
       "status": "complete"
+    },
+    {
+      "id": "us-cafc-opinions",
+      "name": "US Federal Circuit opinions and orders",
+      "url": "https://www.cafc.uscourts.gov/category/opinion-order/feed/",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 100,
+      "accepted_count": 100,
+      "in_window_count": 100,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "us-cafc-notices",
+      "name": "US Federal Circuit general notices",
+      "url": "https://www.cafc.uscourts.gov/category/general-announcement/feed/",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 100,
+      "accepted_count": 100,
+      "in_window_count": 4,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "epo-news",
+      "name": "European Patent Office news",
+      "url": "https://www.epo.org/en/news-events/news/feed",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 1017,
+      "accepted_count": 1017,
+      "in_window_count": 31,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "epo-boards",
+      "name": "EPO boards of appeal communications",
+      "url": "https://www.epo.org/en/law-and-practice/boards-of-appeal/communications/feed",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP tribunal",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 114,
+      "accepted_count": 114,
+      "in_window_count": 1,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "wipo-press",
+      "name": "WIPO press releases",
+      "url": "https://www.wipo.int/pressroom/en/rss.xml",
+      "jurisdiction": "International",
+      "source_type": "IP organisation",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 10,
+      "accepted_count": 10,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "wipo-economics",
+      "name": "WIPO IP and economics",
+      "url": "https://www.wipo.int/en/web/economics/news/-/journal/rss/743893/7224673",
+      "jurisdiction": "International",
+      "source_type": "IP organisation",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 10,
+      "accepted_count": 10,
+      "in_window_count": 1,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "canada-cipo",
+      "name": "Canadian Intellectual Property Office news",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Canadian+Intellectual+Property+Office&dept=intellectualpropertyoffice&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+      "jurisdiction": "Canada",
+      "source_type": "IP office",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 12,
+      "accepted_count": 12,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "canada-innovation",
+      "name": "Innovation Science and Economic Development Canada",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Innovation%2C+Science+and+Economic+Development+Canada&dept=departmentofindustry&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 50,
+      "accepted_count": 50,
+      "in_window_count": 43,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "canada-nrc",
+      "name": "National Research Council Canada",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=National+Research+Council+Canada&dept=nationalresearchcouncil&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+      "jurisdiction": "Canada",
+      "source_type": "government research",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 32,
+      "accepted_count": 32,
+      "in_window_count": 0,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "canada-resources",
+      "name": "Natural Resources Canada",
+      "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?atomtitle=Natural+Resources+Canada&dept=naturalresourcescanada&format=atom&orderBy=desc&pick=50&publishedDate%3E=2021-07-23&sort=publishedDate",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 50,
+      "accepted_count": 50,
+      "in_window_count": 22,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "us-doe-science",
+      "name": "US DOE Office of Science",
+      "url": "https://www.energy.gov/rss/science/3662442",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 10,
+      "accepted_count": 10,
+      "in_window_count": 7,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "us-doe-vehicles",
+      "name": "US DOE vehicles news",
+      "url": "https://www.energy.gov/rss/cmei-vehicles/796431",
+      "jurisdiction": "United States",
+      "source_type": "government technology",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 10,
+      "accepted_count": 10,
+      "in_window_count": 2,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "us-doe-commercial",
+      "name": "US DOE technology commercialization",
+      "url": "https://www.energy.gov/rss/technologycommercialization/1539436",
+      "jurisdiction": "United States",
+      "source_type": "government commercialisation",
+      "language": "en",
+      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "raw_count": 10,
+      "accepted_count": 10,
+      "in_window_count": 2,
+      "invalid_count": 0,
+      "dateless_count": 0,
+      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "status": "complete"
+    },
+    {
+      "id": "manual-0",
+      "name": "USPTO IP news",
+      "url": "https://www.uspto.gov/about-us/news-updates",
+      "jurisdiction": "United States",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-1",
+      "name": "Unified Patent Court",
+      "url": "https://www.unified-patent-court.org/en/news",
+      "jurisdiction": "UPC",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-2",
+      "name": "CNIPA English",
+      "url": "https://english.cnipa.gov.cn/",
+      "jurisdiction": "China",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-3",
+      "name": "IP Australia",
+      "url": "https://www.ipaustralia.gov.au/about-us/news-and-community",
+      "jurisdiction": "Australia",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-4",
+      "name": "Japan Patent Office",
+      "url": "https://www.jpo.go.jp/e/news/index.html",
+      "jurisdiction": "Japan",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-5",
+      "name": "Korean Intellectual Property Office",
+      "url": "https://www.kipo.go.kr/en/",
+      "jurisdiction": "Korea",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
+    },
+    {
+      "id": "manual-6",
+      "name": "Office of Controller General of Patents Designs and Trade Marks",
+      "url": "https://ipindia.gov.in/",
+      "jurisdiction": "India",
+      "source_type": "official source - collection gap",
+      "language": "en",
+      "checked_at": null,
+      "raw_count": null,
+      "accepted_count": null,
+      "in_window_count": null,
+      "invalid_count": null,
+      "dateless_count": null,
+      "last_successful_at": null,
+      "status": "manual_only"
     }
   ],
   "items": [
+    {
+      "id": "c9eb451fa1de80f3168221e1",
+      "title": "Parliamentary Secretary Bardeesy highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-14T15:02:26Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "bf676f4c17d96f8c1c58b446",
+      "title": "Parliamentary Secretary Rochefort highlights Government of Canada’s Budget 2026 investments in recreational facilities and community infrastructure in North Bay, Ontario",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-highlights-government-of-canadas-budget-2026-investments-in-recreational-facilities-and-community-infrastructure-.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-14T15:00:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "8aba45a1e53146ba71ab3be0",
+      "title": "​​​Microsoft 365 outage resolved​​",
+      "url": "https://www.epo.org/en/news-events/news/microsoft-365-outage-resolved",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-14T09:25:23Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "e3752b6e9ce9a77da1e6725a",
+      "title": "Secretary of State Belanger highlights Government of Canada’s investments for Indigenous communities from Budget 2026: Masters of our destiny",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-highlights-government-of-canadas-investments-for-indigenous-communities-from-budget-2026-masters-of-our-destiny.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T22:23:12Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "693fb7ebfb3fe34e087174db",
+      "title": "Parliamentary Secretary Hanley to make a critical minerals announcement in Yukon",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hanley-to-make-a-critical-minerals-announcement-in-yukon.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-13T21:30:32Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "5aff2d60277cbd8c5b872cff",
+      "title": "Secretary of State Belanger highlights Government of Canada’s Budget 2026 investments in recreational facilities and community infrastructure in Beauval, Saskatchewan",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T19:28:40Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "d9f1c702a50610e156bcb0cc",
+      "title": "Parliamentary Secretary Rochefort to highlight federal budget investments in community recreational facilities and ice rinks",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T18:33:37Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "a1d263131ae1c87e1788b658",
+      "title": "Parliamentary Secretary Bardeesy to highlight federal budget investments in community recreational facilities and ice rinks",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-to-highlight-federal-budget-investments-in-community-recreational-facilities-and-ice-rinks.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T18:32:15Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "c33818c06b7cf26fc4b3f4af",
+      "title": "Notice of Adopted Amendments to the Federal Circuit Rules of Practice",
+      "url": "https://www.cafc.uscourts.gov/notice-of-adopted-amendments-to-the-federal-circuit-rules-of-practice-4/",
+      "source": "US Federal Circuit general notices",
+      "source_id": "us-cafc-notices",
+      "published_at": "2026-11-13T18:25:26Z",
+      "topics": [
+        "court announcements"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "67f0680734f0337554f59fc4",
+      "title": "Canada invests to diversify trade, create jobs and lower global emissions by expanding low-carbon LNG exports",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-diversify-trade-create-jobs-and-lower-global-emissions-by-expanding-low-carbon-lng-exports.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-13T17:30:22Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "79624721c64e135263397426",
+      "title": "27-1068: In Re GUAVACOM, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-27-1068-in-re-guavacom-llc-order-27-1068-order-11-13-2026_2786530/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T16:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7cc4416bf82b13f712df9003",
+      "title": "Parliamentary Secretary Rochefort highlights Government of Canada investments from Budget 2026: Masters of our destiny",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T16:01:01Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "aee590ae0953f7ad0616a281",
+      "title": "26-1972: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1972-apple-inc-v-smith-interface-technologies-llc-order-26-1972-order-11-13-2026_2786490/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T15:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "11f74fe1935e4f93bf1606d7",
+      "title": "Canada invests $313 million in Honda North America to advance next-generation vehicle manufacturing in Ontario",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/canada-invests-313-million-in-honda-north-america-to-advance-next-generation-vehicle-manufacturing-in-ontario.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T15:30:23Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "71dbc5de9f701e3ffff55307",
+      "title": "Minister Joly highlights Government of Canada investments from Budget 2026: Masters of our destiny to support industries",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny-to-support-industries.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T15:30:13Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "6fa761cad0446b49158c677e",
+      "title": "Parliamentary Secretary Hogan to speak at energy security forum conference",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-to-speak-at-energy-security-forum-conference.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-13T14:47:04Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "ced955e27417bbfd04c4bfa8",
+      "title": "Parliamentary Secretary Bardeesy to highlight Budget 2026 federal support for industry in Oshawa",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-highlights-government-of-canada-investments-from-budget2026-masters-of-our-destiny-to-support-industries.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-13T14:15:12Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "2765424278e9ffb4802e43f5",
+      "title": "26-1755: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1755-apple-inc-v-smith-interface-technologies-llc-order-26-1755-order-11-13-2026_2786357/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:30:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "67b2b4b4d0e2fb2ff9432248",
+      "title": "26-1535: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1535-apple-inc-v-smith-interface-technologies-llc-order-26-1535-order-11-13-2026_2786348/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:20:12Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "a9491f578390aa0209e98473",
+      "title": "26-1677: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1677-apple-inc-v-smith-interface-technologies-llc-order-26-1677-order-11-13-2026_2786354/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:20:12Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "0fe65465d023cd52ee2ff841",
+      "title": "26-1514: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1514-apple-inc-v-smith-interface-technologies-llc-order-26-1514-order-11-13-2026_2786341/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:20:11Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "9874d500b21ab800d28ab47b",
+      "title": "26-1494: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1494-apple-inc-v-smith-interface-technologies-llc-order-26-1494-order-11-13-2026_2786338/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:20:10Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ac8e38a01681b5d0093f58f8",
+      "title": "26-1493: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1493-apple-inc-v-smith-interface-technologies-llc-order-26-1493-order-11-13-2026_2786335/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T13:10:51Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f8bbc5abd8a28b10ba9e62cd",
+      "title": "26-1580: VALDEZ v. OPM [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1580-valdez-v-opm-opinion-26-1580-opinion-11-13-2026_2786125/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "438f12ddd767348c6684122a",
+      "title": "26-1456: WALKER v. MSPB [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1456-walker-v-mspb-opinion-26-1456-opinion-11-13-2026_2786115/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:40:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "8f442f6beaf99535118215bd",
+      "title": "26-1012: GREEN v. MSPB [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-26-1012-green-v-mspb-opinion-26-1012-opinion-11-13-2026_2786103/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f007fb1173dc3db2097b3c9c",
+      "title": "25-2097: DODSON v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-25-2097-dodson-v-collins-opinion-25-2097-opinion-11-13-2026_2786084/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "385f28e8fb8228905e4f90bb",
+      "title": "25-1559: KAPTAN DEMIR CELIK ENDUSTRISI VE TICARET A.S. v. US [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-25-1559-kaptan-demir-celik-endustrisi-ve-ticaret-as-v-us-opinion-25-1559-opinion-11-13-2026_2786072/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:30:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "6c2d98d44c3567388ad405e8",
+      "title": "IT co-operation breakout sessions: Turning digital co-operation into practice",
+      "url": "https://www.epo.org/en/news-events/news/it-co-operation-breakout-sessions-turning-digital-co-operation-practice",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-13T10:20:21Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "ed698b98f3eea38390ca9a42",
+      "title": "25-1372: FAERBER v. US [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-25-1372-faerber-v-us-opinion-25-1372-opinion-11-13-2026_2786062/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "d7a2416ae4385bc5e15fd6d1",
+      "title": "25-1286: In Re NETLIST, INC. [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-25-1286-in-re-netlist-inc-opinion-25-1286-opinion-11-13-2026_2786049/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "765c85e8d6eed5ff4cad439b",
+      "title": "24-2304: In Re NETLIST, INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-13-2026-24-2304-in-re-netlist-inc-opinion-24-2304-opinion-11-13-2026_2786038/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-13T10:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "6ae4a5a88ccf6edfa4ca6476",
+      "title": "Service alert: major Microsoft 365 outage",
+      "url": "https://www.epo.org/en/news-events/news/service-alert-major-microsoft-365-outage",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-13T08:53:11Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "c7f26da317dab0530ce8fe44",
+      "title": "New report on plant biotech patenting practice",
+      "url": "https://www.epo.org/en/news-events/news/new-report-plant-biotech-patenting-practice",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-13T08:49:20Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "f19d2370be74837fb8a955f4",
+      "title": "EPO and European Commission align on critical technologies for European competitiveness",
+      "url": "https://www.epo.org/en/news-events/news/epo-and-european-commission-align-critical-technologies-european-competitiveness",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-13T04:58:58Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "d8970b54fd5b89c2924d8910",
+      "title": "Celebrating 35 years of Croatia’s State Intellectual Property Office",
+      "url": "https://www.epo.org/en/news-events/news/celebrating-35-years-croatias-state-intellectual-property-office",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-13T02:34:11Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "a568476a8e16f5880cb592da",
+      "title": "Parliamentary Secretary Bardeesy to highlight Budget 2026 federal support for industry in Oshawa",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-bardeesy-to-highlight-budget2026-federal-support-for-industry-in-oshawa.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-12T23:47:04Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "1b47d690e6ab85a4ca355f57",
+      "title": "Minister Joly to highlight Budget 2026 federal support for industry in Ontario",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-joly-to-highlight-budget-2026-federal-support-for-industry-in-ontario.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-12T23:00:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "18833e1eec859d006d934494",
+      "title": "Minister Hodgson to make energy announcement",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-make-energy-announcement.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-12T20:13:45Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "de4460c51d07df670b656ca3",
+      "title": "Secretary of State Belanger to highlight federal budget investments to advance reconciliation with Indigenous peoples in Île-à-la-Crosse",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-to-highlight-federal-budget-investments-to-advance-reconciliation-with-indigenous-peoples-in-ile-a-la-crosse.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-12T18:30:05Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "31c6466415b66ec44b363b11",
+      "title": "Minister Hodgson highlights Government of Canada’s investments from Budget 2026: Masters of our destiny in Southeast Alberta",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny-in-southeast-alberta.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-12T17:30:51Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "111148e6a33505992a82c981",
+      "title": "Secretary of State Belanger to highlight Budget 2026 investments in recreational facilities and ice rinks in Beauval, Saskatchewan",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/secretary-of-state-belanger-to-highlight-budget-2026-investments-in-recreational-facilities-and-ice-rinks-in-beauval-saskatchewan.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-12T17:30:06Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
     {
       "id": "db9e16bd00591172cc755575",
       "title": "Global clean electricity to cut bills and boost energy security",
@@ -83,7 +1260,47 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "b8feb6674f85c42ad4ebcada",
+      "title": "26-1513: APPLE INC. v. SMITH INTERFACE TECHNOLOGIES, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-26-1513-apple-inc-v-smith-interface-technologies-llc-order-26-1513-order-11-12-2026_2785680/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T15:50:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "b656902ddc6d308ce8fd2e96",
+      "title": "SCAC Presents Initial Facilities Report",
+      "url": "https://www.energy.gov/science/articles/scac-presents-initial-facilities-report",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-11-12T15:33:00Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
     },
     {
       "id": "68ef296d462562011e148a81",
@@ -99,7 +1316,229 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "426e665df668d001245e5ec2",
+      "title": "26-2055: FERRING PHARMACEUTICALS INC. v. FINCH THERAPEUTICS GROUP, INC. [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-26-2055-ferring-pharmaceuticals-inc-v-finch-therapeutics-group-inc-order-26-2055-order-11-12-2026_2785570/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T14:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "3d88713cf85cef7bae6d42ca",
+      "title": "26-2018: BREEN v. COLLINS [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-26-2018-breen-v-collins-order-26-2018-order-11-12-2026_2785562/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T14:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "bf407175acd4b553d9f6e1f8",
+      "title": "25-1484: In Re BLAZE MOBILE, INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-25-1484-in-re-blaze-mobile-inc-rule-36-judgment-25-1484-rule_36_judgment-11-12-2026_2785259/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T09:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "d0e1090b9132e9f0ead5ff12",
+      "title": "25-1485: In Re BLAZE MOBILE, INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-25-1485-in-re-blaze-mobile-inc-rule-36-judgment-25-1485-rule_36_judgment-11-12-2026_2785272/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T09:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "3850b8d3d7fec8ae1ac9742e",
+      "title": "25-1524: DRAKE v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-25-1524-drake-v-collins-opinion-25-1524-opinion-11-12-2026_2785218/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T09:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "a056507da096c934375a2ad5",
+      "title": "26-1515: WESTON v. DOJ [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-12-2026-26-1515-weston-v-doj-opinion-26-1515-opinion-11-12-2026_2785191/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-12T09:00:10Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "749766d4bacb43f68c2f90f4",
+      "title": "Save the Date: Technology on the Move - What Helps Innovation Reach the World?",
+      "url": "https://www.wipo.int/en/web/economics/w/news/2026/save-the-date-technology-on-the-move-what-helps-innovation-reach-the-world",
+      "source": "WIPO IP and economics",
+      "source_id": "wipo-economics",
+      "published_at": "2026-11-12T08:18:00Z",
+      "topics": [
+        "IP economics"
+      ],
+      "domains": [
+        "commercial",
+        "research"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "IP organisation",
+      "language": "en"
+    },
+    {
+      "id": "79fac019fa8dd0736407fd42",
+      "title": "EPO and CPVO extend their co-operation agreement",
+      "url": "https://www.epo.org/en/news-events/news/epo-and-cpvo-extend-their-co-operation-agreement",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-12T04:54:22Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "c99c66f71f4fe3aac713920f",
+      "title": "Parliamentary Secretary Noormohamed to highlight Budget 2026 investments in affordability",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-noormohamed-to-highlight-budget-2026-investments-in-affordability.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-11T22:30:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "496925d9b61c647d86a0cf7e",
+      "title": "Parliamentary Secretary Rochefort to highlight Budget 2026 measures to make life more affordable for Canadians",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-rochefort-to-highlight-budget-2026-measures-to-make-life-more-affordable-for-canadians.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-11T17:00:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "fb570d1c8f421e80285ed6aa",
+      "title": "Patent Prosecution Highway (PPH) User Survey",
+      "url": "https://www.epo.org/en/news-events/news/patent-prosecution-highway-pph-user-survey",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-11T10:31:01Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "39eddeafdc6fe81a958fa652",
+      "title": "​​Solidarity with Bulgaria​",
+      "url": "https://www.epo.org/en/news-events/news/solidarity-bulgaria",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-11T08:46:11Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
     },
     {
       "id": "5bf14b51da4b0a6c99de77ad",
@@ -115,7 +1554,140 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "eb0b43765743614f4c9baee5",
+      "title": "EPO and IP Federation strengthen dialogue on patent quality and innovation",
+      "url": "https://www.epo.org/en/news-events/news/epo-and-ip-federation-strengthen-dialogue-patent-quality-and-innovation",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-11T04:31:19Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "90c6fdb0f747807aa28e0f11",
+      "title": "Minister Hodgson to give keynote speech and participate in fireside chat with Southeast Alberta Chamber of Commerce",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-give-keynote-speech-and-participate-in-fireside-chat-with-southeast-alberta-chamber-of-commerce.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-10T21:49:21Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "744a9982fde60b4be3a211d5",
+      "title": "Parliamentary Secretary Hogan highlights Government of Canada’s investments from Budget 2026: Masters of our destiny to support Canadian culture, strengthen creative industries and improve access to arts and heritage across the country",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-hogan-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny-to-support-canadian-culture-stre.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-10T19:45:09Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "7a81a674ce6f038feb3c47d0",
+      "title": "Minister Hodgson to highlight federal budget investments to make life more affordable for Canadians",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-to-highlight-federal-budget-investments-to-make-life-more-affordable-for-canadians.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-10T18:21:56Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "b193575275c5a5ab9d2781d8",
+      "title": "25-1936: NETLIST, INC. v. MICRON TECHNOLOGY TEXAS, LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-25-1936-netlist-inc-v-micron-technology-texas-llc-order-25-1936-order-11-10-2026_2784939/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T18:00:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "391ffefe5637e3098eb5fc04",
+      "title": "Limited CM/ECF Availability on Saturday, November 14, 2026",
+      "url": "https://www.cafc.uscourts.gov/limited-cm-ecf-availability-on-saturday-november-14-2026/",
+      "source": "US Federal Circuit general notices",
+      "source_id": "us-cafc-notices",
+      "published_at": "2026-11-10T17:34:09Z",
+      "topics": [
+        "court announcements"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "4b35ba9557bcaa8fe234bc0f",
+      "title": "Minister Solomon highlights Government of Canada investments from Budget 2026: Masters of our destiny to support Canadian culture, strengthen creative industries and improve access to arts and heritage across the country",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-solomon-highlights-government-of-canada-investments-from-budget-2026-masters-of-our-destiny.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-10T17:22:45Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
     },
     {
       "id": "04079217437ea285cc61fafc",
@@ -130,7 +1702,264 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "51391a6376b73b7872486232",
+      "title": "26-1948: ZAHLER v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1948-zahler-v-us-opinion-26-1948-opinion-11-10-2026_2784432/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f28a888159d9982cedc9ff38",
+      "title": "26-1509: MCCASTER v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1509-mccaster-v-us-opinion-26-1509-opinion-11-10-2026_2784415/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:40:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "633e9e674fb61d43dabd4082",
+      "title": "27-1066: AMERICAN AXLE & MANUFACTURING, INC. v. NEAPCO HOLDINGS LLC [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-27-1066-american-axle-manufacturing-inc-v-neapco-holdings-llc-order-27-1066-order-11-10-2026_2784425/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:40:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "8082e1f9dac45c80126da1b0",
+      "title": "26-1574: HOLLAND v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1574-holland-v-collins-opinion-26-1574-opinion-11-10-2026_2784406/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "29f5ac23c4c8eee04d2c6bdc",
+      "title": "26-1912: BASS v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1912-bass-v-us-opinion-26-1912-opinion-11-10-2026_2784378/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "4b2ba2f48e9170573628b92f",
+      "title": "25-1657: DINES v. OCWR [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-25-1657-dines-v-ocwr-rule-36-judgment-25-1657-rule_36_judgment-11-10-2026_2784394/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "0b15f50841aa0eff210d96b5",
+      "title": "26-1767: CIERS v. MSPB [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1767-ciers-v-mspb-opinion-26-1767-opinion-11-10-2026_2784372/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e136aec23e6602696de3d1d7",
+      "title": "26-1233: ROUZARD v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-26-1233-rouzard-v-us-opinion-26-1233-opinion-11-10-2026_2784353/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:10:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7bc9f3f7ba0f7d7c560e4676",
+      "title": "25-2036: CORRIGENT CORP. v. CISCO SYSTEMS, INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-25-2036-corrigent-corp-v-cisco-systems-inc-rule-36-judgment-25-2036-rule_36_judgment-11-10-2026_2784346/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:00:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "fdb779cd1d2cd322c4edbee1",
+      "title": "25-1808: TERRACINO v. TRIMACO, INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-10-2026-25-1808-terracino-v-trimaco-inc-rule-36-judgment-25-1808-rule_36_judgment-11-10-2026_2784339/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-10T10:00:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "44d07dd82d30bb9e279134ec",
+      "title": "EPO updates practice following G 1/25",
+      "url": "https://www.epo.org/en/news-events/news/epo-updates-practice-following-g-125",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-10T05:14:17Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "ba78828c8b3002273f942b7b",
+      "title": "EPO joins discussions on the future of the PCT",
+      "url": "https://www.epo.org/en/news-events/news/epo-joins-discussions-future-pct",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-10T04:34:32Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "138a59b5ece47b08efbafa02",
+      "title": "Minister Solomon to highlight Budget 2026 investments in culture",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-solomon-to-highlight-budget-2026-investments-in-culture.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-09T18:03:26Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "a5aedcb92ab134973577dc9c",
+      "title": "Parliamentary Secretary Corey Hogan highlights Government of Canada’s Budget 2026: Masters of our Destiny measures to make life more affordable for Calgarians",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-corey-hogan-highlights-government-of-canadas-budget-2026-masters-of-our-destiny-measures-to-make-life-more-affordable-for-c.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-09T17:15:33Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "f48f24c4f463aa7608343973",
@@ -146,7 +1975,650 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "e221ff4c00e014818104d670",
+      "title": "Research News Update: November 9, 2026",
+      "url": "https://content.govdelivery.com/accounts/USDOEOS/bulletins/4322c9b",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-11-09T15:42:42Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "c3fcc5a4af1773950e69ffb8",
+      "title": "25-1635: WEBER STATE FEDERAL CREDIT UNION v. ASCEND FEDERAL CREDIT UNION [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-25-1635-weber-state-federal-credit-union-v-ascend-federal-credit-union-order-25-1635-order-11-9-2026_2783927/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T15:00:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "76d3f7322dd7ad0af197cf5c",
+      "title": "PS Hogan to highlight support for the cultural sector",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/ps-hogan-to-highlight-support-for-the-cultural-sector.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-09T14:00:51Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "a7f3a083c98973d50880b2bb",
+      "title": "25-1403: EVANS v. COLLINS [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-25-1403-evans-v-collins-opinion-25-1403-opinion-11-9-2026_2783657/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "dc59cc33c7de5964a0a7bbaf",
+      "title": "25-1465: In Re JIAXING SUPER LIGHTING ELECTRIC APPLIANCE CO. LTD. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-25-1465-in-re-jiaxing-super-lighting-electric-appliance-co-ltd-rule-36-judgment-25-1465-rule_36_judgment-11-9-2026_2783650/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "0631eb38534c432df4a2ffb3",
+      "title": "26-1564: WEBER v. MSPB [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-26-1564-weber-v-mspb-opinion-26-1564-opinion-11-9-2026_2783633/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:30:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e613c7cfc85b26fa28ee3d40",
+      "title": "25-1451: MONETTE v. COLLINS [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-25-1451-monette-v-collins-rule-36-judgment-25-1451-rule_36_judgment-11-9-2026_2783643/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:30:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "d105a1865e5e791f5f255520",
+      "title": "26-1774: BANKS v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-26-1774-banks-v-us-opinion-26-1774-opinion-11-9-2026_2783615/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "4324aaf54d1faef6df929330",
+      "title": "25-1338: SONOS, INC. v. GOOGLE LLC [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-25-1338-sonos-inc-v-google-llc-rule-36-judgment-25-1338-rule_36_judgment-11-9-2026_2783606/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7124b3cac44dec856bb7cc26",
+      "title": "26-1481: REZBA v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-26-1481-rezba-v-collins-opinion-26-1481-opinion-11-9-2026_2783597/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T10:00:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "8e88ea1b4f6d7267a82c2fef",
+      "title": "26-1704: BRUZZESE v. MSPB [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-26-1704-bruzzese-v-mspb-opinion-26-1704-opinion-11-9-2026_2783589/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T09:50:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7cf38f8d865ef676da3cd845",
+      "title": "26-2278: In Re SHIPPEN [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-09-2026-26-2278-in-re-shippen-order-26-2278-order-11-9-2026_2783566/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-09T09:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "764a527cbef3641eaf9b5134",
+      "title": "Solidarity with Poland after tragic event in Krakow",
+      "url": "https://www.epo.org/en/news-events/news/solidarity-poland-after-tragic-event-krakow",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-08T09:09:09Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "d3408c8adaef2de3193c6af0",
+      "title": "Parliamentary Secretary Noormohamed highlights Budget 2026’s plan to end homelessness within 10 years",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-noormohamed-highlights-budget-2026s-plan-to-end-homelessness-within-10-years.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-07T18:30:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "1f7cb617da0b0eecaa8d5f44",
+      "title": "PS Hogan to highlight federal budget investments in affordability for Canadians",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/ps-hogan-to-highlight-federal-budget-investments-in-affordability-for-canadians.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-06T20:41:37Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "8d63147388776d5c1c781213",
+      "title": "Parliamentary Secretary Noormohamed to highlight Budget 2026 investments in homelessness and housing",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/parliamentary-secretary-noormohamed-to-highlight-budget-2026-investments-in-homelessness-and-housing.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-06T20:30:12Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "6d91144b6e9224f6a6422b7e",
+      "title": "Parliamentary Secretary Rochefort to participate in a milestone event",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-rochefort-to-participate-in-a-milestone-event.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-06T17:59:50Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "2d6d6ad4ee0d730dc0ff5e1b",
+      "title": "Notice of Fee Schedule Change",
+      "url": "https://www.cafc.uscourts.gov/notice-of-fee-schedule-change-3/",
+      "source": "US Federal Circuit general notices",
+      "source_id": "us-cafc-notices",
+      "published_at": "2026-11-06T16:03:18Z",
+      "topics": [
+        "court announcements"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ed622286698ea28b6db7bc0e",
+      "title": "25-1535: ERIKSMOEN v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-06-2026-25-1535-eriksmoen-v-collins-opinion-25-1535-opinion-11-6-2026_2783048/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-06T10:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f3be0351783f4a97665ee78a",
+      "title": "26-1633: CULLERTON v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-06-2026-26-1633-cullerton-v-us-opinion-26-1633-opinion-11-6-2026_2783023/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-06T09:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "eca414c8a17c05d99c354452",
+      "title": "EPO and Medicines for Europe deepen dialogue on patent quality",
+      "url": "https://www.epo.org/en/news-events/news/epo-and-medicines-europe-deepen-dialogue-patent-quality",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-06T04:56:42Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "3e29fa8ae19ad600581023eb",
+      "title": "EPO meets with ASML",
+      "url": "https://www.epo.org/en/news-events/news/epo-meets-asml",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-05T10:08:31Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "40de6f15635665d74f0cb80c",
+      "title": "25-1364: DIGITAL BROADCASTING SOLUTIONS, LLC v. DISH NETWORK L.L.C. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-25-1364-digital-broadcasting-solutions-llc-v-dish-network-llc-rule-36-judgment-25-1364-rule_36_judgment-11-5-2026_2782418/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T10:00:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "160f38bc292907befd1adb96",
+      "title": "25-1315: GOOGLE LLC v. DDC TECHNOLOGY, LLC [OPINION], Precedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-25-1315-google-llc-v-ddc-technology-llc-opinion-25-1315-opinion-11-5-2026_2782410/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T09:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "8f46c793eadafb86548e32d2",
+      "title": "26-1742: MAY v. DOJ [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-26-1742-may-v-doj-opinion-26-1742-opinion-11-5-2026_2782393/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T09:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ccb08cba21efa59df3f2ccf1",
+      "title": "26-1222: BRANDENBURG v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-26-1222-brandenburg-v-us-opinion-26-1222-opinion-11-5-2026_2782367/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T09:30:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "2be92406c478bd4fde1dc4a7",
+      "title": "25-1796: BUERGOFOL GMBH v. OMEGA LINER COMPANY, INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-25-1796-buergofol-gmbh-v-omega-liner-company-inc-rule-36-judgment-25-1796-rule_36_judgment-11-5-2026_2782360/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T09:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ba1e4b1d32a8aff35ead61da",
+      "title": "26-1800: SIMPSON v. DVA [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-05-2026-26-1800-simpson-v-dva-opinion-26-1800-opinion-11-5-2026_2782347/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-05T09:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "9b4b1aeb1537fdec03de4676",
+      "title": "Untangling the Patterns of the Cosmic Microwave Background",
+      "url": "https://www.energy.gov/science/articles/untangling-patterns-cosmic-microwave-background",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-11-05T05:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "6a6479fa2cfbe7e1c3c19786",
+      "title": "DOE’s Office of Technology Commercialization Opens Three Voucher Opportunities to Accelerate Commercialization of Advanced Energy Technologies",
+      "url": "https://www.energy.gov/technologycommercialization/articles/does-office-technology-commercialization-opens-three-voucher",
+      "source": "US DOE technology commercialization",
+      "source_id": "us-doe-commercial",
+      "published_at": "2026-11-05T05:00:00Z",
+      "topics": [
+        "commercialisation"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government commercialisation",
+      "language": "en"
+    },
+    {
+      "id": "ae80a7b74821a04b4b80e0de",
+      "title": "Government of Canada announces new president for the Canadian Space Agency",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-new-president-for-the-canadian-space-agency.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-05T01:00:55Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "d803b9e6dd339ca48ef3b217",
+      "title": "Notice of Temporary Suspension of In-Person Payments",
+      "url": "https://www.cafc.uscourts.gov/notice-of-temporary-suspension-of-in-person-payments/",
+      "source": "US Federal Circuit general notices",
+      "source_id": "us-cafc-notices",
+      "published_at": "2026-11-04T19:05:16Z",
+      "topics": [
+        "court announcements"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "2b4685811f1c00fb39a73daa",
+      "title": "27-1013: VALLESTEROS v. DEFENSE [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-04-2026-27-1013-vallesteros-v-defense-order-27-1013-order-11-4-2026_2782093/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-04T16:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f5c796a8633e10102097ce8a",
+      "title": "27-1012: VALLESTEROS v. DEFENSE [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-04-2026-27-1012-vallesteros-v-defense-order-27-1012-order-11-4-2026_2782085/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-04T16:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "a5eb34d27f934c22293a4bf5",
+      "title": "Joint Readout of the First Canada-China Ministerial Dialogue on Energy",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/joint-readout-of-the-first-canada-china-ministerial-dialogue-on-energy.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-04T13:30:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "2c0079a5c997bfc300456bb0",
@@ -162,7 +2634,28 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "0b0b93be92b261a21c297d49",
+      "title": "26-2308: COOPER v. TREASURY [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-04-2026-26-2308-cooper-v-treasury-order-26-2308-order-11-4-2026_2781861/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-04T12:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "d84135475f25f364edecde60",
@@ -177,7 +2670,10 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "6e6715c0284c1ce42c06fceb",
@@ -192,7 +2688,10 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "05ff19f7fee094ffd2c0c179",
@@ -208,7 +2707,10 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "f0e50cae41ff497660f1e6f6",
@@ -224,7 +2726,119 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "bfe3abdb592722f941ea3d73",
+      "title": "25-1227: CHROMADEX, INC. v. ELYSIUM HEALTH, INC. [ERRATA], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-04-2026-25-1227-chromadex-inc-v-elysium-health-inc-errata-25-1227-errata-11-4-2026_2781596/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-04T09:00:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "574d17ddfe72bfb5d7e8e22f",
+      "title": "26-1373: PROCEVIAT v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-04-2026-26-1373-proceviat-v-collins-opinion-26-1373-opinion-11-4-2026_2781585/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-04T08:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "20f68d13d622ab35d8542b1e",
+      "title": "Minister Solomon concludes visit to Germany to advance Canada’s international AI partnerships",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/minister-solomon-concludes-visit-to-germany-to-advance-canadas-international-ai-partnerships.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-03T22:57:36Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "b8eebdba898dc2a7dfd05419",
+      "title": "26-1992: UCB, INC. v. CIPLA LIMITED [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-03-2026-26-1992-ucb-inc-v-cipla-limited-order-26-1992-order-11-3-2026_2780949/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-03T10:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "609d97434b0eb1674b1021ce",
+      "title": "25-1572: BT AMERICAS, INC. v. PALO ALTO NETWORKS, INC. [ERRATA], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-03-2026-25-1572-bt-americas-inc-v-palo-alto-networks-inc-errata-25-1572-errata-11-3-2026_2780924/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-03T09:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "80c20bfd2ddeff53298983da",
+      "title": "26-1814: ELLIS v. US [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-03-2026-26-1814-ellis-v-us-opinion-26-1814-opinion-11-3-2026_2780906/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-03T09:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "373f8f19889773ac2a6065a1",
@@ -240,7 +2854,46 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "101ac41d2a8a812ebeb662ba",
+      "title": "26-2244: SANCHEZ v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-02-2026-26-2244-sanchez-v-us-order-26-2244-order-11-2-2026_2780509/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-02T15:10:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "a789539a19b3d8e686f02022",
+      "title": "26-1777: BUZZBALLZ, LLC v. MPL BRANDS NV, INC. [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-02-2026-26-1777-buzzballz-llc-v-mpl-brands-nv-inc-order-26-1777-order-11-2-2026_2780504/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-02T15:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "283a66cf1abd44c196804643",
@@ -255,7 +2908,10 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "a5ef481ecd88287cccef8f95",
@@ -270,7 +2926,10 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "27344f7c09f42d7feb83279f",
@@ -285,7 +2944,102 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "34ab32d7477a0c3b9d3bd614",
+      "title": "Fully digital patent granting process: further implementing measures to safeguard users",
+      "url": "https://www.epo.org/en/news-events/news/fully-digital-patent-granting-process-further-implementing-measures-safeguard",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-02T07:00:01Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "837641fe681fbf7f8ad10ac5",
+      "title": "DOE’s Office of Science Announces $8.5 Million for Innovative Fusion Energy Public-Private Partnerships",
+      "url": "https://www.energy.gov/science/articles/does-office-science-announces-85-million-innovative-fusion-energy-public-private",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-11-02T05:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "c82c5de3d950a3ab412ef9ec",
+      "title": "EPO and US patent profession discuss quality, AI and the future of patent practice",
+      "url": "https://www.epo.org/en/news-events/news/epo-and-us-patent-profession-discuss-quality-ai-and-future-patent-practice",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-02T04:57:01Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "2485a7eccca91811726e1f73",
+      "title": "SACEPO Working Party on Rules turns to digital filing, procedural changes and decision G 1/25",
+      "url": "https://www.epo.org/en/news-events/news/sacepo-working-party-rules-turns-digital-filing-procedural-changes-and-decision-g",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-02T01:50:28Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "6e068f24c20b60ec68c98495",
+      "title": "Government of Canada to promote trade and investment with Sweden and northern Europe",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-to-promote-trade-and-investment-with-sweden-and-northern-europe.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-01T15:00:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
     },
     {
       "id": "ba86ecc772c6c25ec3721bb2",
@@ -301,7 +3055,48 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "25e75038d6e2aa462132533e",
+      "title": "Energy Department Announces Fall 2026 SBIR/STTR Phase I Topics, Unlocking $200 Million for American Innovation",
+      "url": "https://www.energy.gov/technologycommercialization/articles/energy-department-announces-fall-2026-sbirsttr-phase-i-topics",
+      "source": "US DOE technology commercialization",
+      "source_id": "us-doe-commercial",
+      "published_at": "2026-10-30T15:01:00Z",
+      "topics": [
+        "commercialisation"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government commercialisation",
+      "language": "en"
+    },
+    {
+      "id": "356a0dcc843730a25f9e124a",
+      "title": "Canada and the European Union intensify cooperation in the area of medical countermeasures for preparedness and response to combat health emergencies",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/canada-and-the-european-union-intensify-cooperation-in-the-area-of-medical-countermeasures-for-preparedness-and-response-to-combat-health-emergencies.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-30T15:00:02Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
     },
     {
       "id": "4a7c6ca3d25b4b22a4cc9dd0",
@@ -316,7 +3111,410 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "c8617cdf12f1804dca4b0efc",
+      "title": "25-1809: PRECISION PLANTING LLC v. MASCHIO GASPARDO S.P.A. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-25-1809-precision-planting-llc-v-maschio-gaspardo-spa-opinion-25-1809-opinion-10-30-2026_2779645/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "30422efd3aeb4885542f889f",
+      "title": "26-1673: KEATHLEY v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-26-1673-keathley-v-us-order-26-1673-order-10-30-2026_2779631/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7bd787fad4cc4578c9cbda0d",
+      "title": "25-1346: GOOGLE LLC v. SONOS, INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-25-1346-google-llc-v-sonos-inc-opinion-25-1346-opinion-10-30-2026_2779628/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:20:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7d3427d17c95c42f5df053e3",
+      "title": "26-1085: BESANG INC. v. MICRON TECHNOLOGY INC. [RULE 36 JUDGMENT], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-26-1085-besang-inc-v-micron-technology-inc-rule-36-judgment-26-1085-rule_36_judgment-10-30-2026_2779623/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e9b9683a7de155649e850854",
+      "title": "25-1320: MICRON TECHNOLOGY, INC. v. BESANG INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-25-1320-micron-technology-inc-v-besang-inc-opinion-25-1320-opinion-10-30-2026_2779607/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "972c78083cc03519d82dcd1e",
+      "title": "25-1227: CHROMADEX, INC. v. ELYSIUM HEALTH, INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-25-1227-chromadex-inc-v-elysium-health-inc-opinion-25-1227-opinion-10-30-2026_2779593/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T10:00:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "9ba47f8af9828024cd385589",
+      "title": "26-160: In Re AMORY [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-26-160-in-re-amory-order-26-160-order-10-30-2026_2779574/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T09:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e99b8e4c3eb66081518bbd31",
+      "title": "27-100: In Re RODGERS [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-30-2026-27-100-in-re-rodgers-order-27-100-order-10-30-2026_2779557/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-30T09:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "8b5094c9ad5a7a4c4904c969",
+      "title": "DOE’s Office of Critical Minerals and Energy Innovation Launches PROSPECT Implementation Prize To Expand America's Mining and Critical Minerals Workforce",
+      "url": "https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-launches-prospect-implementation",
+      "source": "US DOE vehicles news",
+      "source_id": "us-doe-vehicles",
+      "published_at": "2026-10-30T08:05:07Z",
+      "topics": [
+        "vehicles",
+        "energy"
+      ],
+      "domains": [
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government technology",
+      "language": "en"
+    },
+    {
+      "id": "9f46a70581ccb42302a9bae6",
+      "title": "Shaping the Guidelines for 2027 together",
+      "url": "https://www.epo.org/en/news-events/news/shaping-guidelines-2027-together",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-30T03:00:00Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "11b5dea7eea949d580c9074e",
+      "title": "Disruption due to earthquake in Panama",
+      "url": "https://www.epo.org/en/news-events/news/disruption-due-earthquake-panama",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-30T01:02:42Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "414bafe79fb05602c0a0644e",
+      "title": "Minister Solomon and Executive Vice-President Virkkunen to announce new partnership at Canada–European Union Summit",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-and-executive-vice-president-virkkunen-to-announce-new-partnership-at-canadaeuropean-union-summit.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-29T14:53:10Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "40159b93e35369b8377f69f0",
+      "title": "26-2253: TITRE v. DEPARTMENT OF AGRICULTURE [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-2253-titre-v-department-of-agriculture-order-26-2253-order-10-29-2026_2778960/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T10:50:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "05aeb5bddb837af837fc128e",
+      "title": "26-1448: THOMAS v. DVA [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-1448-thomas-v-dva-order-26-1448-order-10-29-2026_2778936/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T10:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "a409a9a3f4739789806a6428",
+      "title": "26-2162: BLACKMON v. OPM [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-2162-blackmon-v-opm-order-26-2162-order-10-29-2026_2778895/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T10:20:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ccc3e56ca00c2dc4b10c46b0",
+      "title": "26-1727: PERDUE v. DVA [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-1727-perdue-v-dva-order-26-1727-order-10-29-2026_2778869/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T10:00:10Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f8453de8de9fc5c74db00c89",
+      "title": "25-1299: POLICH v. COLLINS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-25-1299-polich-v-collins-opinion-25-1299-opinion-10-29-2026_2778785/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T08:50:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e571bde93de9577d7acbcfe9",
+      "title": "25-1572: BT AMERICAS, INC. v. PALO ALTO NETWORKS, INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-25-1572-bt-americas-inc-v-palo-alto-networks-inc-opinion-25-1572-opinion-10-29-2026_2778774/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T08:50:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "6667ede61d86496e3ab37b7e",
+      "title": "26-2090: MOORE v. GRIFFEN [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-2090-moore-v-griffen-order-26-2090-order-10-29-2026_2778780/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T08:50:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "0bf43ed1372d333423ea54a8",
+      "title": "26-1917: BEAL v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-29-2026-26-1917-beal-v-us-order-26-1917-order-10-29-2026_2778769/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-29T08:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "b1e10e46eb974a89c03025ac",
+      "title": "Government of Canada launches Telecom Competition Roadmap to improve competition and increase choice for Canadians",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-launches-telecom-competition-roadmap-to-improve-competition-and-increase-choice-for-canadians.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-28T20:12:21Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "4148d5a8a0b6df70393abdec",
+      "title": "Canada invests to unlock lithium potential and improve connectivity and industry in northern Quebec",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/canada-invests-to-unlock-lithium-potential-and-improve-connectivity-and-industry-in-northern-quebec.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-28T17:00:32Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "abddc183b45fcbddb71fac99",
@@ -332,7 +3530,84 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "d19e6112ab50cca0e587506e",
+      "title": "Minister Joly to participate in a site visit of Nexans and hold a media availability",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-to-participate-in-a-site-visit-of-nexans-and-hold-a-media-availability.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-28T14:43:39Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "58bd6b7107dcae1c8af9bc6b",
+      "title": "DOE’s Office of Critical Minerals and Energy Innovation Unveils New Strategy and Initiative to Strengthen American Battery Leadership",
+      "url": "https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-unveils-new-strategy-and",
+      "source": "US DOE vehicles news",
+      "source_id": "us-doe-vehicles",
+      "published_at": "2026-10-28T13:27:31Z",
+      "topics": [
+        "vehicles",
+        "energy"
+      ],
+      "domains": [
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government technology",
+      "language": "en"
+    },
+    {
+      "id": "f08147ff9e8230ed7c3347b6",
+      "title": "26-1835: PERCEPT TECHNOLOGIES INC. v. SQUIRES [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-28-2026-26-1835-percept-technologies-inc-v-squires-order-26-1835-order-10-28-2026_2778227/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-28T11:00:16Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "68facbc944ebd9bf08486af8",
+      "title": "27-1080: EL MALIK v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-28-2026-27-1080-el-malik-v-us-order-27-1080-order-10-28-2026_2778165/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-28T10:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "8cbf80ccc312f76b203e210b",
@@ -348,7 +3623,101 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "ee8aa926cecf1668bfe90309",
+      "title": "26-1424: In Re WENKMAN [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-28-2026-26-1424-in-re-wenkman-opinion-26-1424-opinion-10-28-2026_2778116/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-28T09:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "dc5437419d48d48d2ae59d3d",
+      "title": "AI-powered solution for more accessible legal information across Europe",
+      "url": "https://www.epo.org/en/news-events/news/ai-powered-solution-more-accessible-legal-information-across-europe",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-28T03:25:02Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "95839bd38888ee5aec32130f",
+      "title": "Solidarity with Spain after high-speed trains collide",
+      "url": "https://www.epo.org/en/news-events/news/solidarity-spain-after-high-speed-trains-collide",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-28T02:58:09Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "2e0cd391029b0526230e03e3",
+      "title": "Parliamentary Secretary Leitão to participate in Strix announcement of projects funded through the Initiative for Sustainable Aviation Technology",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/parliamentary-secretary-leitao-to-participate-in-strix-announcement-of-projects-funded-through-the-initiative-for-sustainable-aviation-technology.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-27T18:09:16Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "c271ea092378ce9985c3cdfd",
+      "title": "26-1951: THRASHER v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-27-2026-26-1951-thrasher-v-us-order-26-1951-order-10-27-2026_2777477/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-27T14:10:05Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "4b5c9c5254e72b125378699c",
@@ -363,7 +3732,28 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "78bfd82d485afd86914acd66",
+      "title": "26-2195: HASSAN v. COLLINS [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-27-2026-26-2195-hassan-v-collins-order-26-2195-order-10-27-2026_2777442/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-27T13:30:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "b0f239c091f2783957c89ba0",
@@ -379,7 +3769,64 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "f768923ec238fc2297ad0c10",
+      "title": "26-1942: REID v. DEPARTMENT OF TRANSPORTATION [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-27-2026-26-1942-reid-v-department-of-transportation-order-26-1942-order-10-27-2026_2777233/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-27T10:00:10Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "78eda717e8ea5d4612fd07e0",
+      "title": "European Judges’ Forum 2026",
+      "url": "https://www.epo.org/en/news-events/news/european-judges-forum-2026",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-27T04:00:06Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "fd01ec40c965d50606ab7305",
+      "title": "26-2026: YOU MAP, INC. v. SNAP INC. [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-2026-you-map-inc-v-snap-inc-order-26-2026-order-10-26-2026_2777010/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T17:00:10Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "876a182b7dc6b3fc76c451dc",
@@ -395,7 +3842,83 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "4484a05c06c761bd26a5e880",
+      "title": "Energy Department Awards $15 Million to Advance Particle Accelerators for Medicine, Materials, and Manufacturing",
+      "url": "https://www.energy.gov/science/articles/energy-department-awards-15-million-advance-particle-accelerators-medicine",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-10-26T14:21:58Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "04e6fefa104af9ccd26f8fdd",
+      "title": "26-1398: ROYAL v. COLLINS [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-1398-royal-v-collins-order-26-1398-order-10-26-2026_2776634/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T11:30:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "21bda6245d4eaf7cf6d2d3bb",
+      "title": "26-152: In Re THURMAN [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-152-in-re-thurman-order-26-152-order-10-26-2026_2776600/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T11:00:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "aee348ee6ad10a16da0244c5",
+      "title": "26-1616: GOODWIN v. PENSION BENEFIT GUARANTY CORP. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-1616-goodwin-v-pension-benefit-guaranty-corp-opinion-26-1616-opinion-10-26-2026_2776582/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T10:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "24479e7eb3bb0fec1a2633e6",
@@ -411,7 +3934,156 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "289da516b1e6afe9fd6a3ffb",
+      "title": "26-1466: MIDKIFF v. COMMERCE [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-1466-midkiff-v-commerce-order-26-1466-order-10-26-2026_2776544/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T10:30:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "f2b84b1bebb9db15399c7162",
+      "title": "25-1954: GURVEY v. LIVE NATION ENTERTAINMENT, INC. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-25-1954-gurvey-v-live-nation-entertainment-inc-opinion-25-1954-opinion-10-26-2026_2776517/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T10:20:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "372318f0a1d8e346b55dfd84",
+      "title": "26-1728: CAMACHO v. ARMY [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-1728-camacho-v-army-opinion-26-1728-opinion-10-26-2026_2776467/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T09:50:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "c1a86656eeb78e28b3c7a33b",
+      "title": "26-1995: MORENO v. NIZER [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-26-2026-26-1995-moreno-v-nizer-order-26-1995-order-10-26-2026_2776445/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-26T09:40:06Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "5b6e0896386fc61430ab3a41",
+      "title": "Trilateral offices meet in Vienna to advance Global Assignment and co-operation on AI",
+      "url": "https://www.epo.org/en/news-events/news/trilateral-offices-meet-vienna-advance-global-assignment-and-co-operation-ai",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-26T05:15:04Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "99ec2580df95d426bb6b2b76",
+      "title": "EPO signs Letter of Intent with CNRS Innovation and Max Planck Innovation",
+      "url": "https://www.epo.org/en/news-events/news/epo-signs-letter-intent-cnrs-innovation-and-max-planck-innovation",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-26T02:00:01Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "e41eedc12dbe17bbd05c550f",
+      "title": "Minister Hodgson Meets with Türkiye's Minister of Energy and Natural Resources, Alparslan Bayraktar",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-meets-with-turkiyes-minister-of-energy-and-natural-resources-alparslan-bayraktar.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-23T18:30:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "8e20c3eb096f81fc4f0ffea6",
+      "title": "Minister Hodgson Meets with Türkiye's Minister of Agriculture and Forestry, İbrahim Yumaklı",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-meets-with-turkiyes-minister-of-agriculture-and-forestry-ibrahim-yumakl.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-23T17:26:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "fea8c41599ee84ec8a16e1f9",
@@ -427,7 +4099,48 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "97eee9b1e2e819eca0b3479f",
+      "title": "Secretary of State Belanger highlights new measures to lower home energy costs and improve energy efficiency",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/secretary-of-state-belanger-highlights-new-measures-to-lower-home-energy-costs-and-improve-energy-efficiency.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-23T15:30:03Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "a3597471e50c1933ec9a6537",
+      "title": "Government of Canada invests over $190 million to advance Canada’s critical minerals sector and strengthen aluminum processing",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-over-190-million-to-advance-canadas-critical-minerals-sector-and-strengthen-aluminum-processing.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-23T15:00:05Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
     },
     {
       "id": "c850201cf6c7b420cd63873a",
@@ -443,7 +4156,64 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "f823134e37e2de92423c6d7b",
+      "title": "26-1941: SAMPSON v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-1941-sampson-v-us-order-26-1941-order-10-23-2026_2775885/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T11:00:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "18b7df1cbe18728e3566cf8f",
+      "title": "26-2066: DAWSON-PASCHALL v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-2066-dawson-paschall-v-us-order-26-2066-order-10-23-2026_2775844/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T10:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e9f345ffeac12db9a7bac335",
+      "title": "26-153: In Re CARTER [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-153-in-re-carter-order-26-153-order-10-23-2026_2775835/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T10:20:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
     },
     {
       "id": "ce044337aa4bd07afc72422b",
@@ -459,7 +4229,10 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "d076eecdc7f3a423fabd6c19",
@@ -475,7 +4248,232 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "9fec1c328a8b32b90d5a6e85",
+      "title": "26-2117: WELLS v. U.S. COURT OF APPEALS [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-2117-wells-v-us-court-of-appeals-order-26-2117-order-10-23-2026_2775814/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T09:50:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "97da2d64b953a97a81164bc5",
+      "title": "26-156: In Re STORM [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-156-in-re-storm-order-26-156-order-10-23-2026_2775754/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T09:10:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "ad991d7116ff468d846d4980",
+      "title": "26-1602: LEE v. DHS [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-23-2026-26-1602-lee-v-dhs-opinion-26-1602-opinion-10-23-2026_2775748/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-23T09:10:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "574bde93de7f1cd9dff4bd98",
+      "title": "Minister Joly unveils Canada’s new Venture and Growth Capital Plan that will strengthen venture capital investments in Canada with $1.75 billion in funding",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-unveils-canadas-new-venture-and-growth-capital-plan-that-will-strengthen-venture-capital-investments-in-canada-with-175-billion-in-fu.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-22T19:53:29Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "88de504b21d55a41d70bd4c1",
+      "title": "Backgrounder: Government of Canada announces Canada’s Venture and Growth Capital Plan",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/backgrounder-government-of-canada-announces-canadas-venture-and-growth-capital-plan.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-22T19:53:18Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "8e84464ce133878ea5427b4f",
+      "title": "Government of Canada launches consultations on a new Canadian space act and takes action to strengthen the resiliency of Canada’s space infrastructure critical for national security",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-launches-consultations-on-a-new-canadian-space-act-and-takes-action-to-strengthen-the-resiliency-of-canadas-space-infrastructu.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-22T18:42:57Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "bc4b88166b9512aca3e46424",
+      "title": "Joint Statement between the Minister of Energy and Natural Resources of Canada and the Minister of Energy and Natural Resources of Türkiye on Cooperation in the Field of Energy",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/joint-statement-between-the-minister-of-energy-and-natural-resources-of-canada-and-the-minister-of-energy-and-natural-resources-of-turkiye-on-coope.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-22T18:29:27Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "037d7dcb5d0fbb79ff26165c",
+      "title": "Secretary of State Belanger to highlight new measures to help Canadians lower home energy costs",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/secretary-of-state-belanger-to-highlight-new-measures-to-help-canadians-lower-home-energy-costs.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-22T17:20:47Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "7cc173d86af36df6d19bf8c5",
+      "title": "25-1123: LASHIFY, INC. v. QINGDAO LASHBEAUTY COSMETIC CO., LTD. [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-22-2026-25-1123-lashify-inc-v-qingdao-lashbeauty-cosmetic-co-ltd-order-25-1123-order-10-22-2026_2775262/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-22T13:10:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "7bd909dbda1320e703a1cf9d",
+      "title": "Minister Joly to announce Strategic Response Fund investment in Rio Tinto and Aluminerie Alouette",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-to-announce-strategic-response-fund-investment-in-rio-tinto-and-aluminerie-alouette.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-22T13:00:00Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "56ddedd7d5fefdce8b8ca636",
+      "title": "26-1547: TOTAL INTELLECTUAL PROPERTY PROTECTION SERVICES v. US [ORDER], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/10-22-2026-26-1547-total-intellectual-property-protection-services-v-us-order-26-1547-order-10-22-2026_2775072/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-10-22T11:00:09Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "e8e5c3000f98ad7b2b919c32",
+      "title": "From public research to market success: Europe’s tech transfer challenge",
+      "url": "https://www.epo.org/en/news-events/news/public-research-market-success-europes-tech-transfer-challenge",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-22T10:01:00Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
     },
     {
       "id": "8a2483f2840eba228e84ff8e",
@@ -491,7 +4489,10 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
     },
     {
       "id": "e51aee2f09207b36edf53312",
@@ -506,7 +4507,67 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "79176778116e03a8b17064a5",
+      "title": "Prime Minister Carney and Premier Ford launch new action plan to protect workers from tariffs and strengthen Ontario industries",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-21T19:00:31Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "958a71d10b2102eb0710a56d",
+      "title": "Minister Joly to announce support to strengthen Canada’s venture capital ecosystem",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-joly-to-announce-support-to-strengthen-canadas-venture-capital-ecosystem.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-21T17:28:42Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "00bde7bd7e9cce2e69dc84f8",
+      "title": "Minister Hodgson promotes Canadian energy and mining in London",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-promotes-canadian-energy-and-mining-in-london.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-21T16:00:09Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "1068a49b20de7242a0a67a37",
@@ -522,7 +4583,85 @@
         "technology",
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "65734a8b3b71541e4a97df21",
+      "title": "EPO platforms back online",
+      "url": "https://www.epo.org/en/news-events/news/epo-platforms-back-online",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-21T04:28:25Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "a22715ff91d9bfd35cda0075",
+      "title": "Government of Canada invests $15 million in Xona Space Systems Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/government-of-canada-invests-15-million-in-xona-space-systems-canada.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-20T19:56:40Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "aac3a097b6062a633fead644",
+      "title": "Statement from Minister Valdez recognizing Small Business Week",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/statement-from-minister-valdez-recognizing-small-business-week.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-20T15:32:40Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "e9d83cb99d7dd6c91604b16f",
+      "title": "Minister Hodgson to hold media callback following his visit to the United Kingdom",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-hold-media-callback-following-his-visit-to-the-united-kingdom.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-20T13:00:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     },
     {
       "id": "cc4dc36763e44f8782468a49",
@@ -537,7 +4676,140 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "f1e4f4d803b04852dcdc477d",
+      "title": "EPO meets with Zebra Technologies",
+      "url": "https://www.epo.org/en/news-events/news/epo-meets-zebra-technologies",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-20T07:59:53Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "43b2490f69f283f1bef6d670",
+      "title": "Select Committee commends strong Unitary Patent uptake and SME engagement",
+      "url": "https://www.epo.org/en/news-events/news/select-committee-commends-strong-unitary-patent-uptake-and-sme-engagement-0",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-20T01:25:42Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "72b0e8e84157df3da22bfab7",
+      "title": "Outstanding U.S. Graduate Students Selected for Department of Energy Office of Science Research Awards",
+      "url": "https://www.energy.gov/science/articles/outstanding-us-graduate-students-selected-department-energy-office-science-0",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-10-19T14:28:43Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "9b054efab1f3d9e485d1904a",
+      "title": "Candidate Support Programme expands with record participation and new opportunities",
+      "url": "https://www.epo.org/en/news-events/news/candidate-support-programme-expands-record-participation-and-new-opportunities",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-19T02:37:27Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "a9d5feef49536e3640f9ffd7",
+      "title": "The Government of Canada announces investment in Prevost (Volvo Group Canada Inc.) in Sainte-Claire to support Canadian bus manufacturing and clean transportation",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-investment-in-prevost-volvo-group-canada-inc-in-sainte-claire-to-support-canadian-bus-manufacturing-and-clean-tr.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-16T14:04:58Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "d0fccf0555d38b86de15e242",
+      "title": "Thompson Mine Complex transaction closes, helping secure a stronger future for Canadian nickel",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/thompson-mine-complex-transaction-closes-helping-secure-a-stronger-future-for-canadian-nickel.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-16T12:30:00Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "17a44960f08092334154c860",
+      "title": "The Government of Canada announces significant investment to strengthen Canada’s electricity and forest products supply chains",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-significant-investment-to-strengthen-canadas-electricity-and-forest-products-supply-chains.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-16T10:59:14Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
     },
     {
       "id": "3bbd8a57e518e3fcc60e8d9d",
@@ -552,7 +4824,141 @@
       "domains": [
         "commercial"
       ],
-      "summary": ""
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "e010faeed703911354e23a5c",
+      "title": "Energy Department Awards $36 Million to Strengthen Energy Research Across 21 States and Puerto Rico",
+      "url": "https://www.energy.gov/science/articles/energy-department-awards-36-million-strengthen-energy-research-across-21-states",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-10-16T07:45:25Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "689a5f1badd61dbc516a4fd7",
+      "title": "Use of audio recordings and AI to prepare minutes in appeal proceedings",
+      "url": "https://www.epo.org/en/case-law-appeals/communications/use-audio-recordings-and-ai-prepare-minutes-appeal-proceedings",
+      "source": "EPO boards of appeal communications",
+      "source_id": "epo-boards",
+      "published_at": "2026-10-16T05:10:45Z",
+      "topics": [
+        "patent law"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP tribunal",
+      "language": "en"
+    },
+    {
+      "id": "bc64ab466ca5045f3dbd1073",
+      "title": "EPO marks INPI Portugal’s 50th anniversary",
+      "url": "https://www.epo.org/en/news-events/news/epo-marks-inpi-portugals-50th-anniversary",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-10-16T04:14:11Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "7636d82f96cc1ad2159a346f",
+      "title": "Minister Lightbound highlights additional funding for Agricultrices du Québec while visting Saint-Hyacinthe",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-lightbound-highlights-additional-funding-for-agricultrices-du-quebec-while-visting-saint-hyacinthe.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-15T20:00:18Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "7dc5f25eb22271bd33971e0a",
+      "title": "Minister Solomon concludes successful visit to the United Kingdom and Ireland to advance Canada’s global AI leadership",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-concludes-successful-visit-to-the-united-kingdom-and-ireland-to-advance-canadas-global-ai-leadership.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-10-15T17:09:47Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
+      "id": "4742b53fb27b77301dd19168",
+      "title": "Minister Hodgson to travel to the United Kingdom",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-travel-to-the-united-kingdom.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-15T17:07:29Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "c4a7e4685cb2e4f44dc79ec4",
+      "title": "Minister Chartrand to celebrate mining milestone",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-chartrand-to-celebrate-mining-milestone.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-10-15T17:03:27Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
     }
   ]
 }
