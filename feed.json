@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T15:41:37.744608Z",
-  "last_successful_at": "2026-11-14T15:41:37.744608Z",
+  "generated_at": "2026-11-15T13:57:51.635882Z",
+  "last_successful_at": "2026-11-15T13:57:51.635882Z",
   "status": "complete",
   "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
@@ -12,13 +12,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 3,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -28,13 +28,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -44,13 +44,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 20,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -60,13 +60,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -76,13 +76,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
-      "in_window_count": 7,
+      "in_window_count": 6,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -92,13 +92,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -108,13 +108,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -124,13 +124,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -140,13 +140,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -156,13 +156,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 100,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -172,13 +172,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 4,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -188,13 +188,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 1017,
       "accepted_count": 1017,
-      "in_window_count": 31,
+      "in_window_count": 30,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -204,13 +204,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP tribunal",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 114,
       "accepted_count": 114,
-      "in_window_count": 1,
+      "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -220,13 +220,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -236,13 +236,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -252,13 +252,13 @@
       "jurisdiction": "Canada",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 12,
       "accepted_count": 12,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -268,13 +268,13 @@
       "jurisdiction": "Canada",
       "source_type": "government innovation",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 43,
+      "in_window_count": 40,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -284,13 +284,13 @@
       "jurisdiction": "Canada",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 32,
       "accepted_count": 32,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -300,13 +300,13 @@
       "jurisdiction": "Canada",
       "source_type": "government energy",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 22,
+      "in_window_count": 19,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -316,13 +316,13 @@
       "jurisdiction": "United States",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 10,
       "accepted_count": 10,
-      "in_window_count": 7,
+      "in_window_count": 6,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -332,13 +332,13 @@
       "jurisdiction": "United States",
       "source_type": "government technology",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -348,13 +348,13 @@
       "jurisdiction": "United States",
       "source_type": "government commercialisation",
       "language": "en",
-      "checked_at": "2026-11-14T15:41:37.744608Z",
+      "checked_at": "2026-11-15T13:57:51.635882Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-14T15:41:37.744608Z",
+      "last_successful_at": "2026-11-15T13:57:51.635882Z",
       "status": "complete"
     },
     {
@@ -4771,193 +4771,6 @@
       "summary": "",
       "jurisdiction": "Canada",
       "source_type": "government innovation",
-      "language": "en"
-    },
-    {
-      "id": "d0fccf0555d38b86de15e242",
-      "title": "Thompson Mine Complex transaction closes, helping secure a stronger future for Canadian nickel",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/thompson-mine-complex-transaction-closes-helping-secure-a-stronger-future-for-canadian-nickel.html",
-      "source": "Natural Resources Canada",
-      "source_id": "canada-resources",
-      "published_at": "2026-10-16T12:30:00Z",
-      "topics": [
-        "energy"
-      ],
-      "domains": [
-        "technology",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government energy",
-      "language": "en"
-    },
-    {
-      "id": "17a44960f08092334154c860",
-      "title": "The Government of Canada announces significant investment to strengthen Canada’s electricity and forest products supply chains",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/the-government-of-canada-announces-significant-investment-to-strengthen-canadas-electricity-and-forest-products-supply-chains.html",
-      "source": "Innovation Science and Economic Development Canada",
-      "source_id": "canada-innovation",
-      "published_at": "2026-10-16T10:59:14Z",
-      "topics": [
-        "innovation"
-      ],
-      "domains": [
-        "research",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government innovation",
-      "language": "en"
-    },
-    {
-      "id": "3bbd8a57e518e3fcc60e8d9d",
-      "title": "CMA takes first steps to ensure choice in business software",
-      "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
-      "source": "UK Competition and Markets Authority",
-      "source_id": "uk-competition",
-      "published_at": "2026-10-16T09:00:00Z",
-      "topics": [
-        "competition"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "UK",
-      "source_type": "government",
-      "language": "en"
-    },
-    {
-      "id": "e010faeed703911354e23a5c",
-      "title": "Energy Department Awards $36 Million to Strengthen Energy Research Across 21 States and Puerto Rico",
-      "url": "https://www.energy.gov/science/articles/energy-department-awards-36-million-strengthen-energy-research-across-21-states",
-      "source": "US DOE Office of Science",
-      "source_id": "us-doe-science",
-      "published_at": "2026-10-16T07:45:25Z",
-      "topics": [
-        "science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "government research",
-      "language": "en"
-    },
-    {
-      "id": "689a5f1badd61dbc516a4fd7",
-      "title": "Use of audio recordings and AI to prepare minutes in appeal proceedings",
-      "url": "https://www.epo.org/en/case-law-appeals/communications/use-audio-recordings-and-ai-prepare-minutes-appeal-proceedings",
-      "source": "EPO boards of appeal communications",
-      "source_id": "epo-boards",
-      "published_at": "2026-10-16T05:10:45Z",
-      "topics": [
-        "patent law"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "EPO/EPC",
-      "source_type": "IP tribunal",
-      "language": "en"
-    },
-    {
-      "id": "bc64ab466ca5045f3dbd1073",
-      "title": "EPO marks INPI Portugal’s 50th anniversary",
-      "url": "https://www.epo.org/en/news-events/news/epo-marks-inpi-portugals-50th-anniversary",
-      "source": "European Patent Office news",
-      "source_id": "epo-news",
-      "published_at": "2026-10-16T04:14:11Z",
-      "topics": [
-        "intellectual property"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "EPO/EPC",
-      "source_type": "IP office",
-      "language": "en"
-    },
-    {
-      "id": "7636d82f96cc1ad2159a346f",
-      "title": "Minister Lightbound highlights additional funding for Agricultrices du Québec while visting Saint-Hyacinthe",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-lightbound-highlights-additional-funding-for-agricultrices-du-quebec-while-visting-saint-hyacinthe.html",
-      "source": "Innovation Science and Economic Development Canada",
-      "source_id": "canada-innovation",
-      "published_at": "2026-10-15T20:00:18Z",
-      "topics": [
-        "innovation"
-      ],
-      "domains": [
-        "research",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government innovation",
-      "language": "en"
-    },
-    {
-      "id": "7dc5f25eb22271bd33971e0a",
-      "title": "Minister Solomon concludes successful visit to the United Kingdom and Ireland to advance Canada’s global AI leadership",
-      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/minister-solomon-concludes-successful-visit-to-the-united-kingdom-and-ireland-to-advance-canadas-global-ai-leadership.html",
-      "source": "Innovation Science and Economic Development Canada",
-      "source_id": "canada-innovation",
-      "published_at": "2026-10-15T17:09:47Z",
-      "topics": [
-        "innovation"
-      ],
-      "domains": [
-        "research",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government innovation",
-      "language": "en"
-    },
-    {
-      "id": "4742b53fb27b77301dd19168",
-      "title": "Minister Hodgson to travel to the United Kingdom",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-hodgson-to-travel-to-the-united-kingdom.html",
-      "source": "Natural Resources Canada",
-      "source_id": "canada-resources",
-      "published_at": "2026-10-15T17:07:29Z",
-      "topics": [
-        "energy"
-      ],
-      "domains": [
-        "technology",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government energy",
-      "language": "en"
-    },
-    {
-      "id": "c4a7e4685cb2e4f44dc79ec4",
-      "title": "Minister Chartrand to celebrate mining milestone",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/10/minister-chartrand-to-celebrate-mining-milestone.html",
-      "source": "Natural Resources Canada",
-      "source_id": "canada-resources",
-      "published_at": "2026-10-15T17:03:27Z",
-      "topics": [
-        "energy"
-      ],
-      "domains": [
-        "technology",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government energy",
       "language": "en"
     }
   ]
