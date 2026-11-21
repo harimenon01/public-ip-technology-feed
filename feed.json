@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T15:30:11.639369Z",
-  "last_successful_at": "2026-11-20T15:30:11.639369Z",
+  "generated_at": "2026-11-21T14:42:21.387056Z",
+  "last_successful_at": "2026-11-21T14:42:21.387056Z",
   "status": "complete",
   "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
@@ -12,13 +12,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 4,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -28,13 +28,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -44,13 +44,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 20,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -60,13 +60,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -76,13 +76,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
-      "in_window_count": 9,
+      "in_window_count": 8,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -92,13 +92,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -108,13 +108,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
-      "raw_count": 54,
-      "accepted_count": 54,
-      "in_window_count": 54,
+      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -124,13 +124,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
-      "raw_count": 19,
-      "accepted_count": 19,
-      "in_window_count": 19,
+      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -140,13 +140,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
-      "raw_count": 54,
-      "accepted_count": 54,
-      "in_window_count": 54,
+      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "raw_count": 0,
+      "accepted_count": 0,
+      "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -156,13 +156,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 100,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -172,13 +172,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -188,13 +188,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 1022,
       "accepted_count": 1022,
-      "in_window_count": 31,
+      "in_window_count": 30,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -204,13 +204,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP tribunal",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 114,
       "accepted_count": 114,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -220,13 +220,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -236,13 +236,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -252,13 +252,13 @@
       "jurisdiction": "Canada",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 12,
       "accepted_count": 12,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -268,13 +268,13 @@
       "jurisdiction": "Canada",
       "source_type": "government innovation",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 41,
+      "in_window_count": 39,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -284,13 +284,13 @@
       "jurisdiction": "Canada",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 32,
       "accepted_count": 32,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -300,13 +300,13 @@
       "jurisdiction": "Canada",
       "source_type": "government energy",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 50,
       "accepted_count": 50,
       "in_window_count": 25,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -316,13 +316,13 @@
       "jurisdiction": "United States",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -332,13 +332,13 @@
       "jurisdiction": "United States",
       "source_type": "government technology",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -348,13 +348,13 @@
       "jurisdiction": "United States",
       "source_type": "government commercialisation",
       "language": "en",
-      "checked_at": "2026-11-20T15:30:11.639369Z",
+      "checked_at": "2026-11-21T14:42:21.387056Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-20T15:30:11.639369Z",
+      "last_successful_at": "2026-11-21T14:42:21.387056Z",
       "status": "complete"
     },
     {
@@ -472,6 +472,44 @@
   ],
   "items": [
     {
+      "id": "75cea3ff07b26b83e1f62409",
+      "title": "Canada and Newfoundland and Labrador advance the Bay du Nord project",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-and-newfoundland-and-labrador-advance-the-bay-du-nord-project.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-20T17:08:03Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "9d54887c9ef6aa7701d8d14b",
+      "title": "Government of Canada announces major investment in Ford Motor Company of Canada that will strengthen auto manufacturing in Ontario and Canada",
+      "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html",
+      "source": "Innovation Science and Economic Development Canada",
+      "source_id": "canada-innovation",
+      "published_at": "2026-11-20T16:36:44Z",
+      "topics": [
+        "innovation"
+      ],
+      "domains": [
+        "research",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government innovation",
+      "language": "en"
+    },
+    {
       "id": "29145044566bd5313753dfb5",
       "title": "Parliamentary Secretary Guay to make a digital core scanning announcement",
       "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-guay-to-make-a-digital-core-scanning-announcement.html",
@@ -514,7 +552,7 @@
       "url": "https://www.gov.uk/government/news/sports-stadiums-and-supermarkets-drive-2026-solar-revolution",
       "source": "UK Energy Security and Net Zero",
       "source_id": "uk-energy",
-      "published_at": "2026-11-20T11:59:16Z",
+      "published_at": "2026-11-20T11:59:00Z",
       "topics": [
         "energy"
       ],
@@ -525,6 +563,60 @@
       "summary": "",
       "jurisdiction": "UK",
       "source_type": "government",
+      "language": "en"
+    },
+    {
+      "id": "974a1e776920c8313a423ea5",
+      "title": "25-1354: AMERICAN HONDA MOTOR CO., INC. v. NEO WIRELESS LLC [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-20-2026-25-1354-american-honda-motor-co-inc-v-neo-wireless-llc-opinion-25-1354-opinion-11-20-2026_2789552/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-20T10:50:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "6b7e7703c71e676a13753d01",
+      "title": "25-1512: IN RE OLLNOVA TECHNOLOGIES LTD. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-20-2026-25-1512-in-re-ollnova-technologies-ltd-opinion-25-1512-opinion-11-20-2026_2789528/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-20T10:40:08Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "d583de7337dcbbb117cf85a7",
+      "title": "25-1830: FRAUD FREE TRANSACTIONS LLC v. PING IDENTITY CORP. [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-20-2026-25-1830-fraud-free-transactions-llc-v-ping-identity-corp-opinion-25-1830-opinion-11-20-2026_2789517/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-20T10:40:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
       "language": "en"
     },
     {
@@ -5647,9 +5739,9 @@
       "language": "en"
     },
     {
-      "id": "ba06355052237111e66337a0",
-      "title": "Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
+      "id": "361ea3e00f1f56a6c98af69a",
+      "title": "Backgrounder: Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/backgrounder-canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
       "source": "Natural Resources Canada",
       "source_id": "canada-resources",
       "published_at": "2026-11-18T15:00:00Z",
@@ -5666,9 +5758,9 @@
       "language": "en"
     },
     {
-      "id": "361ea3e00f1f56a6c98af69a",
-      "title": "Backgrounder: Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/backgrounder-canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
+      "id": "ba06355052237111e66337a0",
+      "title": "Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
       "source": "Natural Resources Canada",
       "source_id": "canada-resources",
       "published_at": "2026-11-18T15:00:00Z",
@@ -7942,101 +8034,6 @@
       "id": "47ecb3d2d5bde45431296b9d",
       "title": "Cycles of Arbitrary Period in Multidimensional Heterogeneous Hegselmann-Krause Dynamics",
       "url": "https://arxiv.org/abs/2611.21656",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "93c216976ca07251c4bfe93f",
-      "title": "Stop Early, Stay Simple: Evidence Acquisition for Power System Fault and Attack Diagnosis",
-      "url": "https://arxiv.org/abs/2611.21695",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "eb29024c5da6a7bd31d73b6e",
-      "title": "Transient State Preservation of a Dissipative Qubit via Lyapunov Control",
-      "url": "https://arxiv.org/abs/2611.21778",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "539044998612c9f7038c3494",
-      "title": "ALOHA Lightning: Learning Fast and Precise Manipulation",
-      "url": "https://arxiv.org/abs/2611.21919",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "5b64ddf1a75e0f8bb4152f62",
-      "title": "Polylogarithmic Regret via Certainty Equivalence in Degenerate LQR",
-      "url": "https://arxiv.org/abs/2611.21927",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ad851717e447e31c2246e575",
-      "title": "Higher-Order Interaction Reconstruction via Integral Physics-Informed Neural Networks",
-      "url": "https://arxiv.org/abs/2611.21935",
       "source": "arXiv Systems and Control",
       "source_id": "arxiv-systems",
       "published_at": "2026-11-18T05:00:00Z",
