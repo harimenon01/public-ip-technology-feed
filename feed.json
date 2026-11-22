@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T14:42:21.387056Z",
-  "last_successful_at": "2026-11-21T14:42:21.387056Z",
+  "generated_at": "2026-11-22T14:37:32.148441Z",
+  "last_successful_at": "2026-11-22T14:37:32.148441Z",
   "status": "complete",
   "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
@@ -12,13 +12,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 4,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -28,13 +28,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -44,13 +44,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
-      "in_window_count": 20,
+      "in_window_count": 19,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -60,13 +60,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -76,13 +76,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 8,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -92,13 +92,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -108,13 +108,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -124,13 +124,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -140,13 +140,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -156,13 +156,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 100,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -172,13 +172,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -188,13 +188,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 1022,
       "accepted_count": 1022,
       "in_window_count": 30,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -204,13 +204,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP tribunal",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 114,
       "accepted_count": 114,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -220,13 +220,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -236,13 +236,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -252,13 +252,13 @@
       "jurisdiction": "Canada",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 12,
       "accepted_count": 12,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -268,13 +268,13 @@
       "jurisdiction": "Canada",
       "source_type": "government innovation",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 39,
+      "in_window_count": 35,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -284,13 +284,13 @@
       "jurisdiction": "Canada",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 32,
       "accepted_count": 32,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -300,13 +300,13 @@
       "jurisdiction": "Canada",
       "source_type": "government energy",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 25,
+      "in_window_count": 24,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -316,13 +316,13 @@
       "jurisdiction": "United States",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -332,13 +332,13 @@
       "jurisdiction": "United States",
       "source_type": "government technology",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -348,13 +348,13 @@
       "jurisdiction": "United States",
       "source_type": "government commercialisation",
       "language": "en",
-      "checked_at": "2026-11-21T14:42:21.387056Z",
+      "checked_at": "2026-11-22T14:37:32.148441Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-21T14:42:21.387056Z",
+      "last_successful_at": "2026-11-22T14:37:32.148441Z",
       "status": "complete"
     },
     {
@@ -471,6 +471,25 @@
     }
   ],
   "items": [
+    {
+      "id": "5faad7ca7b82045e5fab831e",
+      "title": "UK Government position on COP31 Outcome",
+      "url": "https://www.gov.uk/government/news/uk-government-position-on-cop31-outcome",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-22T12:21:38Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
     {
       "id": "75cea3ff07b26b83e1f62409",
       "title": "Canada and Newfoundland and Labrador advance the Bay du Nord project",
@@ -8015,25 +8034,6 @@
       "id": "c67d00ddbf6b70a6a231b9c3",
       "title": "Satisfiability Modulo Theories for Robust Synthesis of Signal Temporal Logic Specifications",
       "url": "https://arxiv.org/abs/2611.23021",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "47ecb3d2d5bde45431296b9d",
-      "title": "Cycles of Arbitrary Period in Multidimensional Heterogeneous Hegselmann-Krause Dynamics",
-      "url": "https://arxiv.org/abs/2611.21656",
       "source": "arXiv Systems and Control",
       "source_id": "arxiv-systems",
       "published_at": "2026-11-18T05:00:00Z",
