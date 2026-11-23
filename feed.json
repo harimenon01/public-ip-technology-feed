@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T14:37:32.148441Z",
-  "last_successful_at": "2026-11-22T14:37:32.148441Z",
+  "generated_at": "2026-11-23T18:14:14.639457Z",
+  "last_successful_at": "2026-11-23T18:14:14.639457Z",
   "status": "complete",
   "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
@@ -12,13 +12,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 4,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -28,13 +28,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -44,13 +44,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
-      "in_window_count": 19,
+      "in_window_count": 18,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -60,13 +60,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -76,13 +76,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 8,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -92,13 +92,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -108,13 +108,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
-      "raw_count": 0,
-      "accepted_count": 0,
-      "in_window_count": 0,
+      "checked_at": "2026-11-23T18:14:14.639457Z",
+      "raw_count": 57,
+      "accepted_count": 57,
+      "in_window_count": 57,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -124,13 +124,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
-      "raw_count": 0,
-      "accepted_count": 0,
-      "in_window_count": 0,
+      "checked_at": "2026-11-23T18:14:14.639457Z",
+      "raw_count": 16,
+      "accepted_count": 16,
+      "in_window_count": 16,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -140,13 +140,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
-      "raw_count": 0,
-      "accepted_count": 0,
-      "in_window_count": 0,
+      "checked_at": "2026-11-23T18:14:14.639457Z",
+      "raw_count": 50,
+      "accepted_count": 50,
+      "in_window_count": 50,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -156,13 +156,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 100,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -172,13 +172,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 100,
       "accepted_count": 100,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -188,13 +188,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
-      "raw_count": 1022,
-      "accepted_count": 1022,
-      "in_window_count": 30,
+      "checked_at": "2026-11-23T18:14:14.639457Z",
+      "raw_count": 1024,
+      "accepted_count": 1024,
+      "in_window_count": 32,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -204,13 +204,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP tribunal",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 114,
       "accepted_count": 114,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -220,13 +220,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -236,13 +236,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -252,13 +252,13 @@
       "jurisdiction": "Canada",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 12,
       "accepted_count": 12,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -268,13 +268,13 @@
       "jurisdiction": "Canada",
       "source_type": "government innovation",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 35,
+      "in_window_count": 33,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -284,13 +284,13 @@
       "jurisdiction": "Canada",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 32,
       "accepted_count": 32,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -300,13 +300,13 @@
       "jurisdiction": "Canada",
       "source_type": "government energy",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 24,
+      "in_window_count": 21,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -316,13 +316,13 @@
       "jurisdiction": "United States",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 10,
       "accepted_count": 10,
-      "in_window_count": 5,
+      "in_window_count": 6,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -332,13 +332,13 @@
       "jurisdiction": "United States",
       "source_type": "government technology",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -348,13 +348,13 @@
       "jurisdiction": "United States",
       "source_type": "government commercialisation",
       "language": "en",
-      "checked_at": "2026-11-22T14:37:32.148441Z",
+      "checked_at": "2026-11-23T18:14:14.639457Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-22T14:37:32.148441Z",
+      "last_successful_at": "2026-11-23T18:14:14.639457Z",
       "status": "complete"
     },
     {
@@ -471,6 +471,2415 @@
     }
   ],
   "items": [
+    {
+      "id": "a2f7ea08489cae82532c0450",
+      "title": "25-1072: DS ADVANCED ENTERPRISES, LTD. v. LOWE’S HOME CENTERS, LLC [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-23-2026-25-1072-ds-advanced-enterprises-ltd-v-lowes-home-centers-llc-opinion-25-1072-opinion-11-23-2026_2790445/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-23T11:00:07Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "455704a244d2d859c58d1600",
+      "title": "25-2024: WALSH TURNER JOINT VENTURE II v. SECRETARY OF THE ARMY [OPINION], Nonprecedential",
+      "url": "https://www.cafc.uscourts.gov/11-23-2026-25-2024-walsh-turner-joint-venture-ii-v-secretary-of-the-army-opinion-25-2024-opinion-11-23-2026_2790363/",
+      "source": "US Federal Circuit opinions and orders",
+      "source_id": "us-cafc-opinions",
+      "published_at": "2026-11-23T09:10:05Z",
+      "topics": [
+        "court opinions"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "court",
+      "language": "en"
+    },
+    {
+      "id": "539e4c5fdfadb3afeae58a65",
+      "title": "A unified closed-form theory for elastic waves in polycrystals of any crystal symmetry",
+      "url": "https://arxiv.org/abs/2611.26674",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9f802fe03deb8a4deee9b37b",
+      "title": "When the magnetic force theorem fails: dressed exchange in the induced-moment magnets FePt, FePd, CoPt, and CoPd",
+      "url": "https://arxiv.org/abs/2611.26697",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "7e27fd495672d70564527b39",
+      "title": "Atomic layer etching of niobium via alternating O$_2$ and H$_2$/SF$_6$ plasma exposures",
+      "url": "https://arxiv.org/abs/2611.26735",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0aad5489a2ced7812f08c98b",
+      "title": "Prediction of lattice thermal conductivity of half-Heusler compounds by machine learning and transfer-function calibration",
+      "url": "https://arxiv.org/abs/2611.26788",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "674b3b951e443c1d72d1f443",
+      "title": "Tuning the Dzyaloshinskii-Moriya interaction in CoFeB thin film heterostructures",
+      "url": "https://arxiv.org/abs/2611.26808",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "b1b1ae9896fb065e560307de",
+      "title": "Artificial Spin-Glass of Antiferromagnetic Co3O4 Nanocubes Using Spin-Polarized Oxygen",
+      "url": "https://arxiv.org/abs/2611.26860",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9deebbe48c18f703e406a383",
+      "title": "First-principles-based Prediction of Phase Fields: Part II. Solid Solution Tunability in Refractory Complex Concentrated Alloys",
+      "url": "https://arxiv.org/abs/2611.26866",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "ab52843a66806da294f9733e",
+      "title": "Interfacial Transition Waves and Domain Wall Self-Pinning in Bi-stable Mechanical Metamaterial",
+      "url": "https://arxiv.org/abs/2611.26877",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "c1c164630415f11d0f5fbb31",
+      "title": "Transition-Metal Substitutions in MOF-5: A Hybrid-DFT Study of Oxygen Electrocatalysis",
+      "url": "https://arxiv.org/abs/2611.27037",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "5d88f2bd4064dfe976ee9cb8",
+      "title": "Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb",
+      "url": "https://arxiv.org/abs/2611.27072",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f77f43a8945e2cc825edc178",
+      "title": "Axial Thermal Transport in Transition Metal Chalcogenide Nanowires from Machine-Learning Molecular Dynamics Simulations",
+      "url": "https://arxiv.org/abs/2611.27103",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "7700b18228ca4c253dce53d2",
+      "title": "Power Law Transients in Perovskite Photoluminescence",
+      "url": "https://arxiv.org/abs/2611.27163",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "3c5fd4477239f4d2a800e0e7",
+      "title": "Quantum effects on the Peierls stress for screw dislocations in {\\alpha}-Fe",
+      "url": "https://arxiv.org/abs/2611.27176",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "00f66cb455b65d1256e819eb",
+      "title": "Generating grain boundary structures at a specified energy with a symmetry-constrained diffusion model",
+      "url": "https://arxiv.org/abs/2611.27188",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "da1d36bbeeb8a08c071eadc9",
+      "title": "Tailoring Phonon Transport in Bi-based Quaternary Half-Heusler alloys for Thermoelectric Applications",
+      "url": "https://arxiv.org/abs/2611.27234",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "acf837e297ac656343d35283",
+      "title": "Frustration-Stabilized Hexamerons and Their Topological Magnons in Janus MXene",
+      "url": "https://arxiv.org/abs/2611.27384",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "a9d28dafa92744281992e356",
+      "title": "Decoupling Exciton Energetics from Wavefunction Geometry in Imide-Based Defect Double Antiperovskites",
+      "url": "https://arxiv.org/abs/2611.27440",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "27c0f95f3f1b05024d111e8d",
+      "title": "Designing Perovskites for Chemical Looping Hydrogen Production",
+      "url": "https://arxiv.org/abs/2611.27580",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "95c81cc818d8a50a0099b5e2",
+      "title": "Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate",
+      "url": "https://arxiv.org/abs/2611.27583",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "cf6cb9e1d338ce4e0d307702",
+      "title": "Atomistic theory of the $d$-wave phonon angular momentum splitter effect",
+      "url": "https://arxiv.org/abs/2611.27747",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "c963863adb54916b717264be",
+      "title": "Shift current as a stacking spectroscopy of hexagonal boron nitride multilayers",
+      "url": "https://arxiv.org/abs/2611.27785",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d98fcc318b90e769baa37f84",
+      "title": "Voltage-Controlled Dielectric Cavity Magnonics in Epitaxial Fe Films on SrTiO3 Single Crystal Substrates",
+      "url": "https://arxiv.org/abs/2611.27837",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "4136569e0af59139c5edb6aa",
+      "title": "Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$",
+      "url": "https://arxiv.org/abs/2611.27842",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9813be206a168ebb16e2cec4",
+      "title": "Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ",
+      "url": "https://arxiv.org/abs/2611.27869",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "e54ddd60076af5f2a7dfa2a4",
+      "title": "Group-III doping of the p-type oxide SnO",
+      "url": "https://arxiv.org/abs/2611.27938",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "10eacb70f7548ad58e844dd2",
+      "title": "Topological phases protected by half-chiral symmetry",
+      "url": "https://arxiv.org/abs/2611.26693",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "18133f4226ed0de519ab68db",
+      "title": "Pure Orbitronics: Hall Responses and Torques by Orbital Exchange in Spinless Transition-Metal Dichalcogenides",
+      "url": "https://arxiv.org/abs/2611.27391",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "2a2aede227b2306e6c588aef",
+      "title": "One-Step Self-Assembling Lipopolymer Coatings Enable Direct Longitudinal Biosensing in Native Biological Matrices",
+      "url": "https://arxiv.org/abs/2611.27422",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d8148aac3ca1adab3ba498e1",
+      "title": "Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial",
+      "url": "https://arxiv.org/abs/2611.27736",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "67232d19162306654dbe8c9b",
+      "title": "General Transport Signatures of Odd-Parity Magnets: Charge--Spin Selection Rules and Temporal--Spectral Separation",
+      "url": "https://arxiv.org/abs/2611.27763",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d49df7494d794e8ce2b8fc17",
+      "title": "Heat cleaning kinetics and thermal degradation of MOCVD-grown GaAs photocathodes",
+      "url": "https://arxiv.org/abs/2611.27833",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f99bf27c14305f8944c23e7e",
+      "title": "Facile On-Chip Growth and Spatially Selective Color Tuning of CsPbBr$_{3}$@TFA Nanoplatelets via Ion Engineering",
+      "url": "https://arxiv.org/abs/2509.16290",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "81b50420a1f650dd1c5115ae",
+      "title": "Digital-Alloy Bragg Mirrors in High-Q Microcavities for Polariton Lasing",
+      "url": "https://arxiv.org/abs/2512.03203",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d2cdbc428a3a1547748b9e57",
+      "title": "Probing Plasmonic Oscillations in 2D Moir'e Nanocrystal Superlattices by Low-Loss EELS",
+      "url": "https://arxiv.org/abs/2602.10534",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "73e9fe4ddd6e10616621551b",
+      "title": "X-ray spectroscopic responses to magnetoelastic symmetry breaking in altermagnets",
+      "url": "https://arxiv.org/abs/2603.09074",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "4186f15ed2fde3e6f90ec6ee",
+      "title": "Rippled graphene pores as fluidic memristive devices with synaptic and neuromorphic functionalities",
+      "url": "https://arxiv.org/abs/2604.19228",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "048db0f35a9249f4582909c9",
+      "title": "AutoDFT: A Closed-Loop Multi-Agent Framework for Autonomous DFT Calculations",
+      "url": "https://arxiv.org/abs/2605.26179",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0c61696b500434cb3c49d467",
+      "title": "Reactivity-Informed Machine Learning for Performance Prediction and Design Space Exploration of Alkali-Activated Slag",
+      "url": "https://arxiv.org/abs/2606.06765",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "32baf591c8871d5229dc99aa",
+      "title": "Double quantum spin Hall phase in bilayer ZrTe$_5$",
+      "url": "https://arxiv.org/abs/2606.18130",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d2b2ab8f0f5947eec685e6ed",
+      "title": "Competing redox and material redistribution during electrode ageing",
+      "url": "https://arxiv.org/abs/2606.25175",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "7fcd1feb02d410de7cee922f",
+      "title": "Mapping the Growth of Two-Dimensional $\\pi$-Conjugated Polymers on Au(111): Organometallic Intermediates and Edge Terminations",
+      "url": "https://arxiv.org/abs/2606.27512",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d3de095244c9c68bc6ac8a92",
+      "title": "Flux Jamming and Bimodal Dynamics in Bounded Spin Networks",
+      "url": "https://arxiv.org/abs/2607.10045",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8b4585129d99749e552f8c99",
+      "title": "Chiral Spinterfaces as an Overlooked Component of the Chiral-Induced Spin Selectivity Effect",
+      "url": "https://arxiv.org/abs/2608.17608",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "03669e10aad1d8f977d0c837",
+      "title": "Agentic programs: an emerging form of scientific software in computational materials science",
+      "url": "https://arxiv.org/abs/2609.00795",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "1438bf493211eead4e654d8d",
+      "title": "Origin and photoluminescence of a shallow hydrogen-related donor in silicon",
+      "url": "https://arxiv.org/abs/2610.39623",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "b670f68db07d6e533a7eab9b",
+      "title": "I$_4$ complex acting as near-infrared emitter with a quantum memory in silicon",
+      "url": "https://arxiv.org/abs/2610.39713",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d510060611a954ac5e97200d",
+      "title": "SPARC: Evidence-guided adaptive model composition for materials discovery",
+      "url": "https://arxiv.org/abs/2611.19050",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "5509b3b7d110daa5145d00e0",
+      "title": "Frame Based Inelasticity for Fracture in Anisotropic Media",
+      "url": "https://arxiv.org/abs/2611.22020",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "bbf9e5589d3db7738d9758fb",
+      "title": "Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe$_2$",
+      "url": "https://arxiv.org/abs/2507.10477",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "684fa0c90954e4cc3f054519",
+      "title": "Local moment magnon spectrum in conduction electron tunnelling",
+      "url": "https://arxiv.org/abs/2607.05858",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "a98af1f40c5483631db84235",
+      "title": "2D Transport in an in-plane magnetic field",
+      "url": "https://arxiv.org/abs/2607.06561",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "238313e49d4565ada646c9bd",
+      "title": "Fitting the topology of synthetic particle systems with a novel graph representation",
+      "url": "https://arxiv.org/abs/2607.17680",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "30b5ec53b6535563eae4039b",
+      "title": "A unified geometric design framework for kirigami structures",
+      "url": "https://arxiv.org/abs/2608.30032",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "dbc5bba5bf7a224688437657",
+      "title": "What Photocurrent Versus Effective Voltage Tells Us About Charge Generation in Organic Solar Cells",
+      "url": "https://arxiv.org/abs/2609.05170",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "052c017bf6e1cc6fa959d7cd",
+      "title": "Maximum-Temperature Theorem for Nanothermometry",
+      "url": "https://arxiv.org/abs/2610.24340",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "6809c054b8736289b2a815de",
+      "title": "Equivariant Deep Learning in Direct-Product Space for Electronic-Structure Hamiltonian Prediction",
+      "url": "https://arxiv.org/abs/2611.07695",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "22506bc84eabc80c3a2b9a2e",
+      "title": "Two Unconventional Hall Effects in the Kagome Magnet TmMn4Cr$_2$Sn$_6$",
+      "url": "https://arxiv.org/abs/2611.16841",
+      "source": "arXiv Materials Science",
+      "source_id": "arxiv-materials",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "materials science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "42ab033d4008ec49197f6df4",
+      "title": "Spatially multiplexed opto-electronic Ising machine with single-shot parallel readout of 100,000 spins",
+      "url": "https://arxiv.org/abs/2611.26915",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f4e64fed1b8ebeda05fff8de",
+      "title": "Galvanometer Mirror Based Femtosecond-Laser Volumetric Displays",
+      "url": "https://arxiv.org/abs/2611.26928",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "de9f2fa8448bcae7b7748b06",
+      "title": "Sprouting Fields of Conducting Polymer Dendrites as Evolving Organic Electrochemical Frameworks to Interconnect Electrode Arrays",
+      "url": "https://arxiv.org/abs/2611.27480",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "065448b94c4c00933c509e08",
+      "title": "SOP Sensing in Hollow-Core Fiber: Forward Sensing using COTS Transponder and Localization with Coherent OTDR",
+      "url": "https://arxiv.org/abs/2611.26839",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8c3d438d4b72bf1b90a0710a",
+      "title": "Parametric excitation of nano-scale spin waves with controlled phase by an open-resonator-type transducer",
+      "url": "https://arxiv.org/abs/2611.26932",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0e5d6fb4967e19f11f5dee0f",
+      "title": "Composite Dielectric-Loaded Metallic Metagratings for Dual-Polarized Transmissive Beam Manipulation",
+      "url": "https://arxiv.org/abs/2611.27311",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "1b3336fe4874824a991ea5de",
+      "title": "Monolithic ultraviolet-to- near infrared photodetection enabled by an aluminium oxide photonic platform",
+      "url": "https://arxiv.org/abs/2611.27333",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "b6bce44c5b8e11f94ae448e3",
+      "title": "Can Language Models See the Circuit in Pixelated RFIC Passives?",
+      "url": "https://arxiv.org/abs/2611.27559",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "12179e76e84405537c70ba81",
+      "title": "Disentangling Lengthscales in Disordered Fracture",
+      "url": "https://arxiv.org/abs/2611.27581",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9a0ee391224bfa3ca6ae1905",
+      "title": "Atomic interferometry based on a phase-jump error signal with suppression of the lineshape-asymmetry-caused shift",
+      "url": "https://arxiv.org/abs/2611.27592",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "ec9282b13ba80187c58cd7d3",
+      "title": "A Microwave-Photonics Formulation of the Rydberg-Atom Receiver",
+      "url": "https://arxiv.org/abs/2611.27942",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d6030a8bb6faa9230d379673",
+      "title": "Dynamic distortion from discretized coupling feedback in soft-spin Ising machines",
+      "url": "https://arxiv.org/abs/2609.07347",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8aed5b1c716d0f6df1cbe558",
+      "title": "Self-organized photonic time quasicrystal from a single imposed clock",
+      "url": "https://arxiv.org/abs/2605.05649",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0e4d913c5e8ce8b840c3424f",
+      "title": "Photonic processors that carry their own unclonable fingerprint",
+      "url": "https://arxiv.org/abs/2611.26079",
+      "source": "arXiv Applied Physics",
+      "source_id": "arxiv-physics",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "applied physics"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "a1b6e3070bb399f43b00d360",
+      "title": "Connectivity-Constrained Linear System Realization: Feasibility and Realizable Sets",
+      "url": "https://arxiv.org/abs/2611.26811",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f200b5a9a557dd7a2a69a703",
+      "title": "$\\mathcal{H}_\\infty$ Grid-Forming Control in DC Microgrids",
+      "url": "https://arxiv.org/abs/2611.26827",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "1ee8f7e7cacd94a01eaef0f0",
+      "title": "Loop-OPF: Solver-Informed Learning for Optimal Power Flow with Inference-Time Topology Adaptivity",
+      "url": "https://arxiv.org/abs/2611.27013",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f4417ad06845a78a0a4a33cd",
+      "title": "Mode Recommendation and Dynamic Routing Guidance for Improved Trip Quality in Mixed Traffic Networks",
+      "url": "https://arxiv.org/abs/2611.27091",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "23783c2caa0b2ba37eb24574",
+      "title": "Which Data-Center Load Models Can Be Trusted? An Evidence-Graded Review of Dynamic Modeling and Validation for Large Computational Loads",
+      "url": "https://arxiv.org/abs/2611.27169",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "cf25ede94ed6767d05912c5d",
+      "title": "Strong Functional Observability and Strong Functional Detectability: Applications to Functional Observer Design for Systems with Unknown Inputs",
+      "url": "https://arxiv.org/abs/2611.27296",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "d182dafb23a5f52ebff5f89b",
+      "title": "Network Traffic Dynamics in Urban Low-Altitude Air Transport with Projected-Space Macroscopic Fundamental Diagrams",
+      "url": "https://arxiv.org/abs/2611.27357",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "ac28a234004c6eabde1e0373",
+      "title": "Active Learning of Flows from Curve Observations using Gaussian Processes",
+      "url": "https://arxiv.org/abs/2611.27400",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "baf1a444ee3a353d30819182",
+      "title": "Linear Quadratic Control With Event-Based Control Actions: Performance Beyond Periodic Control",
+      "url": "https://arxiv.org/abs/2611.27416",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "36ad12c86e32cdc02919928a",
+      "title": "Incentive-based Fleet Rebalancing in Vehicle-Sharing Systems via Equilibrium-Constrained Optimal Control",
+      "url": "https://arxiv.org/abs/2611.27476",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f7c814ba44d42222b9da8fba",
+      "title": "Unlocking Heterogeneous Accelerator Flexibility in AI Data Centers: Sizing and Workload Allocation",
+      "url": "https://arxiv.org/abs/2611.27576",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "fe1e8e8631eb1532ff43acea",
+      "title": "Planar Formation Control with Minimal Sensing and No Common Orientation: An Almost-Global Result",
+      "url": "https://arxiv.org/abs/2611.27595",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "f17626930be7aadfec9a7196",
+      "title": "Hierarchical Agentic Mid-Band Agility for Reliable Low-Latency Space-Air-Ground Integrated V2X Networks",
+      "url": "https://arxiv.org/abs/2611.27659",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "a86bde79862ce82e60140d39",
+      "title": "On Robust Strictly Positive Real Synthesis for High-Order Interval Polynomials",
+      "url": "https://arxiv.org/abs/2611.27665",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "3958f2e2eb77a5717c64d03a",
+      "title": "Iteration-Dependent Temporal Resilience in Diffusion Models for Approximate Computing",
+      "url": "https://arxiv.org/abs/2611.27745",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "87e5fabf6ebd95d1d8aeaf4d",
+      "title": "Eliminating Make-Whole Uplifts with a Minimum-Cost Uniform Price Adder",
+      "url": "https://arxiv.org/abs/2611.27757",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "11c2cd8924482e85836d2555",
+      "title": "Bayesian Bias Learning-Enabled Probabilistic Voltage Estimation with Unknown Uncertainty Modeling of DERs in Distribution Grids",
+      "url": "https://arxiv.org/abs/2611.27866",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0185600fa992c663b2d8e4f6",
+      "title": "Load-Following Dynamics of an SMR-Powered All-Electric Ship with Battery Energy Storage",
+      "url": "https://arxiv.org/abs/2611.27957",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "32cd6036af9b587936f73b20",
+      "title": "Ensuring Grid-Safe Forwarding of Distributed Flexibility in Sequential DSO-TSO Markets",
+      "url": "https://arxiv.org/abs/2406.04889",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8039959209ac04909c260c8b",
+      "title": "DNN-Assisted Deterministic Policy Learning for Adaptive IRS-NOMA-OWC Networks",
+      "url": "https://arxiv.org/abs/2611.26742",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "c52ed63e3d613008d65aa852",
+      "title": "FORTH: Grounding Tactile VLA Execution via Forward-Only Proxy-Control Pairing",
+      "url": "https://arxiv.org/abs/2611.26744",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "23008763d65466c6186e0b31",
+      "title": "Search-Informed MPPI for Kinodynamic Motion Planning via Monte Carlo Tree Expansion",
+      "url": "https://arxiv.org/abs/2611.26763",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9632daa17553ca82bae198c8",
+      "title": "Nonholonomic Event-Triggered Source Seeking",
+      "url": "https://arxiv.org/abs/2611.26802",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "41be3fc9b0e2c0e72998a194",
+      "title": "CENTRY: A Probabilistic Latent-State Model for Continual AI Risk Estimation, Monitoring, and Regulation",
+      "url": "https://arxiv.org/abs/2611.26940",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "5c8c97ce72c34f6bb514b942",
+      "title": "Seabird-Aware Multi-Objective Offshore Wind Capacity Allocation: A Gippsland Case Study",
+      "url": "https://arxiv.org/abs/2611.27073",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "3cc4f19ba6ba2773cce3b4c8",
+      "title": "Adaptive Collective Decision-Making in Signed Networks",
+      "url": "https://arxiv.org/abs/2611.27147",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "67479478a835b59dcf5e0eee",
+      "title": "Error-Corrected Physics-Informed Neural Operator for Optimal Control of Unmanned Aerial Vehicles under Uncertainty",
+      "url": "https://arxiv.org/abs/2611.27272",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "582ebc46af31d68f3d6790be",
+      "title": "Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents",
+      "url": "https://arxiv.org/abs/2611.27435",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9a88bb00c283b6a858f25f1a",
+      "title": "Efficient Natural Language to Temporal Logic Translation for Real-Time Physical AI",
+      "url": "https://arxiv.org/abs/2611.27489",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "44122da7ed58425908416e0e",
+      "title": "Where Delay Compensation Belongs in a Decentralized Mean-Field-Game Swarm with a Control-Barrier Safety Filter",
+      "url": "https://arxiv.org/abs/2611.27540",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "1059aec2a72a76a97581ae8c",
+      "title": "Incentive-Based Regulatory Mechanism for Tariff Design in District Heating and Cooling Networks",
+      "url": "https://arxiv.org/abs/2611.27571",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "2490aa6595273837fe39881e",
+      "title": "Energy-preserving Bayesian model reduction: closed-form structured posteriors and probabilistic stability certificates for quadratic operator inference",
+      "url": "https://arxiv.org/abs/2611.27794",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "1003706cd62657370aae8263",
+      "title": "Terrain-Aided Navigation Without Raycasting: A Sliding Grid Approach for Point Cloud Processing",
+      "url": "https://arxiv.org/abs/2510.06470",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "9e6899d306cf46182dcdfe79",
+      "title": "Simplifying Gas-Phase Kinetic Measurements with a Dual-Arm Flow Tube",
+      "url": "https://arxiv.org/abs/2605.23907",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "cf88e117f8be0e719741a684",
+      "title": "What Graph Unlearning Cannot Erase: Physics-Induced Leakage of Cyberattack Information in Electric Vehicle Charging Networks",
+      "url": "https://arxiv.org/abs/2606.19566",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "50e6e67a441ffe15fab0118c",
+      "title": "Optimal Uniform Pricing for Multi-Interval Dispatch without Make-Whole Uplifts",
+      "url": "https://arxiv.org/abs/2609.00541",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0ee797946dfbca583e9dc5b0",
+      "title": "Quantum-Based $k$-Coverage Optimization for UAV-Aided Search-and-Rescue Missions",
+      "url": "https://arxiv.org/abs/2609.01930",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "bc2b080165656d1289b17d43",
+      "title": "Reference-Filter-Driven Transition Probabilities for IMM-Based Satellite Maneuver Detection",
+      "url": "https://arxiv.org/abs/2610.11242",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "452274cd00f460de4d1f4a7b",
+      "title": "Beyond Scalar Inertia: Frequency-Response-Based Assessment of Finite-Duration Inertial Support in Grid-Forming Converters",
+      "url": "https://arxiv.org/abs/2611.18092",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "53620e19c0540d26937a6916",
+      "title": "A Scalable Decentralized Event-Triggered Topology-Switching Protocol for Verifiable Safe Control in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.21513",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "3d567cb6519008e9d63d95e6",
+      "title": "Performance guarantees for optimization-based state estimation using turnpike properties",
+      "url": "https://arxiv.org/abs/2501.18385",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0f31b570f12ead8198f903b3",
+      "title": "Binary Decision Process in Pre-Evacuation Behavior",
+      "url": "https://arxiv.org/abs/2508.08284",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "5308ba0443dd9a129258829a",
+      "title": "Geometry-Preserving Neural Architectures on Manifolds with Boundary",
+      "url": "https://arxiv.org/abs/2602.03082",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "57ecb7b6807bb9d1c1a69b59",
+      "title": "On the Existence of Koopman Linear Embeddings for Controlled Nonlinear Systems",
+      "url": "https://arxiv.org/abs/2602.14537",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8719614bc9c0038a62f9c586",
+      "title": "Multi-User mmWave Beam and Rate Adaptation via Combinatorial Satisficing Bandits",
+      "url": "https://arxiv.org/abs/2604.14908",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0d5bcd50db3291c7b9aebd98",
+      "title": "Ace! Motion Planning of Professional-Level Table Tennis Serves with a Robot Arm",
+      "url": "https://arxiv.org/abs/2607.06989",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "de78153253618310aded716d",
+      "title": "Readiness Barrier Functions: Forward-Invariant Control Authority for Overactuated Multirotor Allocation",
+      "url": "https://arxiv.org/abs/2608.16335",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "2d14bf6bf8c09181ce7a6f82",
+      "title": "Fault-Geometry-Aware Control Allocation for Emergency Quadrotor Landing under Single-Motor Loss of Effectiveness",
+      "url": "https://arxiv.org/abs/2611.08259",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "80742f75f54dae8e7fb596a9",
+      "title": "Recursive Bayesian Monitoring of SLAM Failures for LiDAR-Based UAV Navigation",
+      "url": "https://arxiv.org/abs/2611.10566",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "0c57e3bf261d25eace51b5d4",
+      "title": "Uncertainty-Aware Hybrid Offline Reinforcement Learning with Online Action Selection Enabled by Sparse Gaussian-Process Critics",
+      "url": "https://arxiv.org/abs/2611.14374",
+      "source": "arXiv Systems and Control",
+      "source_id": "arxiv-systems",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "systems and control"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "International",
+      "source_type": "research preprints",
+      "language": "en"
+    },
+    {
+      "id": "8e5983e5ab192ac3a9d21490",
+      "title": "DOE to Convene First National Isotope Summit in February 2027",
+      "url": "https://www.energy.gov/science/articles/doe-convene-first-national-isotope-summit-february-2027",
+      "source": "US DOE Office of Science",
+      "source_id": "us-doe-science",
+      "published_at": "2026-11-23T05:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "domains": [
+        "research",
+        "technology"
+      ],
+      "summary": "",
+      "jurisdiction": "United States",
+      "source_type": "government research",
+      "language": "en"
+    },
+    {
+      "id": "9fe8115909aae706674a4b11",
+      "title": "Annual high-level meeting with UK patent attorneys",
+      "url": "https://www.epo.org/en/news-events/news/annual-high-level-meeting-uk-patent-attorneys",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-23T04:08:52Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "148dfcf90b269225bf10962d",
+      "title": "EPO meets with Airbus",
+      "url": "https://www.epo.org/en/news-events/news/epo-meets-airbus",
+      "source": "European Patent Office news",
+      "source_id": "epo-news",
+      "published_at": "2026-11-23T03:39:42Z",
+      "topics": [
+        "intellectual property"
+      ],
+      "domains": [
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "EPO/EPC",
+      "source_type": "IP office",
+      "language": "en"
+    },
+    {
+      "id": "33081b9b5eac6da8cf598148",
+      "title": "COP31 Outcomes - your questions answered",
+      "url": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
+      "source": "UK Energy Security and Net Zero",
+      "source_id": "uk-energy",
+      "published_at": "2026-11-22T22:59:37Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "UK",
+      "source_type": "government",
+      "language": "en"
+    },
     {
       "id": "5faad7ca7b82045e5fab831e",
       "title": "UK Government position on COP31 Outcome",
@@ -1760,25 +4169,6 @@
       "id": "c29a7ee8c082b8e625b09899",
       "title": "Exceptional unidirectional radiation modes",
       "url": "https://arxiv.org/abs/2611.25609",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-20T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0e4d913c5e8ce8b840c3424f",
-      "title": "Photonic processors that carry their own unclonable fingerprint",
-      "url": "https://arxiv.org/abs/2611.26079",
       "source": "arXiv Applied Physics",
       "source_id": "arxiv-physics",
       "published_at": "2026-11-20T05:00:00Z",
@@ -5650,2393 +8040,6 @@
       "source": "arXiv Systems and Control",
       "source_id": "arxiv-systems",
       "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "66d03ccf8521aa61c517e7f2",
-      "title": "A Differentiable Composite Approximation Framework for Autonomous Underwater Vehicle Maneuvering Modeling from Sea-Trial Data",
-      "url": "https://arxiv.org/abs/2606.19711",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "24c10beee5798181a9334624",
-      "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth",
-      "url": "https://arxiv.org/abs/2608.24735",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1dd45773283300da22d79251",
-      "title": "SPROUT: The Open-Source Soft Growing Robot for Search and Rescue",
-      "url": "https://arxiv.org/abs/2609.17781",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1e58da6f11407e32694070e2",
-      "title": "RiskWorld: Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving",
-      "url": "https://arxiv.org/abs/2609.18442",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ff98f3e53e72d9633bd18221",
-      "title": "K-subareas partitioning subject to coinciding boundary segments of neighboring subareas",
-      "url": "https://arxiv.org/abs/2611.07701",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-19T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "361ea3e00f1f56a6c98af69a",
-      "title": "Backgrounder: Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/backgrounder-canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
-      "source": "Natural Resources Canada",
-      "source_id": "canada-resources",
-      "published_at": "2026-11-18T15:00:00Z",
-      "topics": [
-        "energy"
-      ],
-      "domains": [
-        "technology",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government energy",
-      "language": "en"
-    },
-    {
-      "id": "ba06355052237111e66337a0",
-      "title": "Canada invests to drive clean energy, create jobs and spur innovation in the Atlantic",
-      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/canada-invests-to-drive-clean-energy-create-jobs-and-spur-innovation-in-the-atlantic.html",
-      "source": "Natural Resources Canada",
-      "source_id": "canada-resources",
-      "published_at": "2026-11-18T15:00:00Z",
-      "topics": [
-        "energy"
-      ],
-      "domains": [
-        "technology",
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "Canada",
-      "source_type": "government energy",
-      "language": "en"
-    },
-    {
-      "id": "6610c47d83c1744bef068074",
-      "title": "25-1767: LAVENS v. COLLINS [ORDER], Nonprecedential",
-      "url": "https://www.cafc.uscourts.gov/11-18-2026-25-1767-lavens-v-collins-order-25-1767-order-11-18-2026_2788326/",
-      "source": "US Federal Circuit opinions and orders",
-      "source_id": "us-cafc-opinions",
-      "published_at": "2026-11-18T12:20:07Z",
-      "topics": [
-        "court opinions"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "court",
-      "language": "en"
-    },
-    {
-      "id": "8242144e35ffff76876ff466",
-      "title": "WIPO World Intellectual Property Indicators: Global Patent and Trademark Filings Hit Record High; India Crosses 100,000 Annual Patent Application Mark",
-      "url": "https://www.wipo.int/pressroom/en/articles/2026/article_0017.html",
-      "source": "WIPO press releases",
-      "source_id": "wipo-press",
-      "published_at": "2026-11-18T12:00:00Z",
-      "topics": [
-        "intellectual property"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "IP organisation",
-      "language": "en"
-    },
-    {
-      "id": "0176b6dd1783845f9b818da3",
-      "title": "Travel and leisure businesses investigated over pricing practices",
-      "url": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "source": "UK Competition and Markets Authority",
-      "source_id": "uk-competition",
-      "published_at": "2026-11-18T11:00:00Z",
-      "topics": [
-        "competition"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "UK",
-      "source_type": "government",
-      "language": "en"
-    },
-    {
-      "id": "5080f3b77a6ddaa3eb282961",
-      "title": "26-1509: MCCASTER v. US [ERRATA], Nonprecedential",
-      "url": "https://www.cafc.uscourts.gov/11-18-2026-26-1509-mccaster-v-us-errata-26-1509-errata-11-18-2026_2788221/",
-      "source": "US Federal Circuit opinions and orders",
-      "source_id": "us-cafc-opinions",
-      "published_at": "2026-11-18T10:20:07Z",
-      "topics": [
-        "court opinions"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "court",
-      "language": "en"
-    },
-    {
-      "id": "90a04bb74b48ae3fd9fabea2",
-      "title": "25-1119: EDGE SYSTEMS LLC v. CARTESSA AESTHETICS, LLC [OPINION], Nonprecedential",
-      "url": "https://www.cafc.uscourts.gov/11-18-2026-25-1119-edge-systems-llc-v-cartessa-aesthetics-llc-opinion-25-1119-opinion-11-18-2026_2788213/",
-      "source": "US Federal Circuit opinions and orders",
-      "source_id": "us-cafc-opinions",
-      "published_at": "2026-11-18T10:10:07Z",
-      "topics": [
-        "court opinions"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "court",
-      "language": "en"
-    },
-    {
-      "id": "a4cc22320267c5e5abc62a28",
-      "title": "25-1501: BUTLAK v. DHS [OPINION], Nonprecedential",
-      "url": "https://www.cafc.uscourts.gov/11-18-2026-25-1501-butlak-v-dhs-opinion-25-1501-opinion-11-18-2026_2788202/",
-      "source": "US Federal Circuit opinions and orders",
-      "source_id": "us-cafc-opinions",
-      "published_at": "2026-11-18T10:00:09Z",
-      "topics": [
-        "court opinions"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "court",
-      "language": "en"
-    },
-    {
-      "id": "ce33f56d2ab4d42d920d7975",
-      "title": "26-1615: EARLY WARNING SERVICES, LLC v. INTELLECTUAL VENTURES II, LLC [ORDER], Nonprecedential",
-      "url": "https://www.cafc.uscourts.gov/11-18-2026-26-1615-early-warning-services-llc-v-intellectual-ventures-ii-llc-order-26-1615-order-11-18-2026_2788191/",
-      "source": "US Federal Circuit opinions and orders",
-      "source_id": "us-cafc-opinions",
-      "published_at": "2026-11-18T10:00:08Z",
-      "topics": [
-        "court opinions"
-      ],
-      "domains": [
-        "commercial"
-      ],
-      "summary": "",
-      "jurisdiction": "United States",
-      "source_type": "court",
-      "language": "en"
-    },
-    {
-      "id": "b8b96b87f8c3615d463cf64c",
-      "title": "Dynamics and transport in LiF using classical and machine learned interatomic potentials",
-      "url": "https://arxiv.org/abs/2611.21900",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "f738835e9848497e531b8f0d",
-      "title": "quantEM: Quantitative Electron Microscopy Analysis from Differentiable Physics to Neural Priors",
-      "url": "https://arxiv.org/abs/2611.21903",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "18ad31beb53b9c59eecf830d",
-      "title": "Weight-Space Programming for Materials Science",
-      "url": "https://arxiv.org/abs/2611.22013",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "5509b3b7d110daa5145d00e0",
-      "title": "Frame Based Inelasticity for Strength and Fracture in Anisotropic Media",
-      "url": "https://arxiv.org/abs/2611.22020",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "a798c5200b6b56d90e00eda1",
-      "title": "Electrostatic screening and nitrogen-vacancy charge states in boron-doped/nitrogen-doped diamond junctions",
-      "url": "https://arxiv.org/abs/2611.22074",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "bb896974b37d6ff2158d836c",
-      "title": "Second Harmonic Flexoelectricity",
-      "url": "https://arxiv.org/abs/2611.22088",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "cc913df3c1bbb2c74717e8b4",
-      "title": "Swift Heavy Ion Tracks in Polymorphs of Titanium Dioxide: The Effects of Electron Beam and Crystal Structures",
-      "url": "https://arxiv.org/abs/2611.22153",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9a5f8ec895daa891356a80d8",
-      "title": "Supercell periodicity biases octahedral tilting and energetics in high-entropy perovskite oxides",
-      "url": "https://arxiv.org/abs/2611.22313",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1a4d5ebbb85b73529efdcda0",
-      "title": "Mapping phase competition in GaAs under pressure and temperature",
-      "url": "https://arxiv.org/abs/2611.22332",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "7a3637ea136fd687b8fe7e18",
-      "title": "Assessment of electric-field-induced forces for bulk solids within the projector-augmented wave method",
-      "url": "https://arxiv.org/abs/2611.22400",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "f53d355b94e156a557310451",
-      "title": "Magnetic History and Field Sweep Rate Effects on Transformation Hysteresis in $\\mathrm{Ni}_{41}\\mathrm{Co}_{9}\\mathrm{Mn}_{31.5}\\mathrm{Ga}_{18.5}$",
-      "url": "https://arxiv.org/abs/2611.22442",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "df37df98ab36cf072f3496ed",
-      "title": "Efficient Machine Learning Interatomic Potentials",
-      "url": "https://arxiv.org/abs/2611.22444",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8c6c952a219df68e1db3e0b0",
-      "title": "Burgers vectors from Voronoi topology",
-      "url": "https://arxiv.org/abs/2611.22488",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "21b4c1327f47e0a74ff50ad4",
-      "title": "Combined magnetic and structural transition state in first-principles calculations",
-      "url": "https://arxiv.org/abs/2611.22489",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "10c9e378e3cd69a15fb96465",
-      "title": "Koopmans spectral functionals for excitons in materials",
-      "url": "https://arxiv.org/abs/2611.22524",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4d7303add84152cee2d48049",
-      "title": "Solvent/Antisolvent-Driven Etching of 2D Layered Halide Perovskite Microcrystals toward Endo-Epitaxial Heterostructures",
-      "url": "https://arxiv.org/abs/2611.22529",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "bd1b50c08949ae1aadc7fd04",
-      "title": "First-order correction to the self-consistent harmonic approximation free energy: Impact on the negative thermal expansion and phonon dynamics in ScF$_3$",
-      "url": "https://arxiv.org/abs/2611.22538",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "2237db32ab4f61b995013e48",
-      "title": "Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm",
-      "url": "https://arxiv.org/abs/2611.22573",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "849b4e4e0a0fe3f2f0350525",
-      "title": "Prior-guided adaptive local refinement of foundation interatomic potentials",
-      "url": "https://arxiv.org/abs/2611.22626",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4e1d0c792780c3326b7c0ef9",
-      "title": "Computational Modeling of Sublattice Magnetization in CoTb/Co/CoTb Magnetic Multilayer Nanojunctions Between Cobalt Leads",
-      "url": "https://arxiv.org/abs/2611.22644",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9820337037134a49fabcbb3c",
-      "title": "VQkit: A Unified and Extensible Framework for VASP and Quantum ESPRESSO Pre- and Post-Processing",
-      "url": "https://arxiv.org/abs/2611.22664",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "2f520e8cd4f305e25d9695d5",
-      "title": "Altermagnetism-induced magneto-optical effects",
-      "url": "https://arxiv.org/abs/2611.22750",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "84daec30222d368b74ab3e77",
-      "title": "Interfacial electrostatics: From polar insulators to charged-layer metals",
-      "url": "https://arxiv.org/abs/2611.22776",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "2af4af50975d38d875c5fe18",
-      "title": "Canonical spin glass behavior and memory effects in van der Waals magnet (Fe0.55Ni0.45)3GaTe2",
-      "url": "https://arxiv.org/abs/2611.22781",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "a6b25353993675ba410ac64d",
-      "title": "From a High-T$\\rm_C$ Spin-Gapless Semiconductor to a Spin-Glass: The Role of Disorder in NiMnCrAl",
-      "url": "https://arxiv.org/abs/2611.22784",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1509c6090d32c755bb1617de",
-      "title": "Mechanically induced self-propagating reactions within the realm of mechanochemistry: Fundamentals, overview, in situ monitoring and perspectives",
-      "url": "https://arxiv.org/abs/2611.22840",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "a5766647c7f06477176cf672",
-      "title": "AlCoCuFeNi High-Entropy Alloy Nanoparticle Melting and Solidification: A Classical Molecular Dynamics Simulation Study",
-      "url": "https://arxiv.org/abs/2611.22858",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "720725e58d9c958fed83de19",
-      "title": "Engineering antiferromagnetic (LaVO3)m/(PrVO3)n superlattices",
-      "url": "https://arxiv.org/abs/2611.22861",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "3aff409aeacf2026146bd43d",
-      "title": "Engineering third order absorbing exceptional points in multi-drive cavity magnonics for enhanced sensing",
-      "url": "https://arxiv.org/abs/2611.22875",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "c6d392e9ef856f77fb980bbc",
-      "title": "Temperature Flips the Sign of the Hydrogen Response in Nanogranular Palladium Networks",
-      "url": "https://arxiv.org/abs/2611.22877",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "3cf73b4d8e99be1cca72f81a",
-      "title": "From quasiperiodic three-colour order on a triangular lattice to covalent carbon sheets",
-      "url": "https://arxiv.org/abs/2611.22938",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1722722893564f16749c8a03",
-      "title": "Pair distribution function oscillations at electrostatically stabilized nanocrystal surfaces reflect nanocrystal lattice periodicity",
-      "url": "https://arxiv.org/abs/2611.22946",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "b2524c3db0adc446f2336205",
-      "title": "Spin and Orbital Angular Momentum Textures at Chiral Molecule-Metal Interfaces",
-      "url": "https://arxiv.org/abs/2611.23029",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8bf9ccc21c9a7e0c297a1f4b",
-      "title": "Charge-transfer excitation drives cooperative phonon-assisted exciton self-trapping in NiPS$_3$",
-      "url": "https://arxiv.org/abs/2611.23131",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e6e793d54fda9603b91de646",
-      "title": "Localized corrosion resistance of ultrafine-grained austenitic steel 321 obtained by Rotary Swaging: The role of annealing conditions",
-      "url": "https://arxiv.org/abs/2611.23160",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "43f59a9ef8d85d307d35421d",
-      "title": "Effect of superplastic deformation on the intergranular corrosion resistance of austenitic steel 321 with different types of UFG structure: A case of homogeneous and heterogeneous microstructure obtained by ECAP",
-      "url": "https://arxiv.org/abs/2611.23183",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e5ac9945084b573efb6050d7",
-      "title": "On the richness of metamaterials generated by recursive cell division",
-      "url": "https://arxiv.org/abs/2611.19957",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "72766d34a525237437ea7f58",
-      "title": "Statistical Properties of the $q$-Deformed Monolayer and Bilayer Graphene",
-      "url": "https://arxiv.org/abs/2611.21675",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "41974320524bda7c68112390",
-      "title": "Probing Phase Fluctuations in Cuprates by Multidimensional Josephson Spectroscopy",
-      "url": "https://arxiv.org/abs/2611.21708",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "39615c6228e72313e6910f52",
-      "title": "Symmetry-reduced k-point sampling and Wannier analysis with localized Gaussian orbitals",
-      "url": "https://arxiv.org/abs/2611.21801",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0b4cb8c7c06656adacd43351",
-      "title": "Magnon-Phonon-Polariton Optomechanics in a van der Waals Magnet",
-      "url": "https://arxiv.org/abs/2611.21869",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "2f5d535cf1de204701420361",
-      "title": "Optical characterization of Fermi polarons in monolayer MoSe$_2$ encapsulated in amorphous silicon nitride",
-      "url": "https://arxiv.org/abs/2611.21931",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "a2d05e4840d52337d1b2c681",
-      "title": "Bandwidth-tunable thermal emitter via dynamic resonator coupling and loss",
-      "url": "https://arxiv.org/abs/2611.21934",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8ee30425487d9a5de9cc0fb2",
-      "title": "DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases",
-      "url": "https://arxiv.org/abs/2611.22050",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8cfc0e2092b612155b9d95f7",
-      "title": "Apparent contact angle equation for a dielectric droplet on a conductive hydrophilic surface in an electric field",
-      "url": "https://arxiv.org/abs/2611.22073",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "460a4d3af91662e0660d84dd",
-      "title": "Reconfigurable 2D Lateral Heterostructure Platform for Unified Detection, Emission, and Logic",
-      "url": "https://arxiv.org/abs/2611.22170",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4b127e8e20a3d52b01aed5fd",
-      "title": "Nonlocal regularization of sharp-crack energetics: a variational bridge from Griffith geometry to emergent constitutive degradation",
-      "url": "https://arxiv.org/abs/2611.22284",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4c14b8826df32efdf3b13101",
-      "title": "Orbital differentiation in a rare earth ion near half filling",
-      "url": "https://arxiv.org/abs/2611.22462",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "f53a04a37e679c70d4b2a40f",
-      "title": "What Do LLMs Use to Judge Synthesis Recipes? An Experimental Analysis on 240 Solid-State Syntheses",
-      "url": "https://arxiv.org/abs/2611.22623",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "f7541bb7524de4a3d657b22d",
-      "title": "Domain walls of a spin-chirality ferroelectric as tunable quantum particles",
-      "url": "https://arxiv.org/abs/2611.22662",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "aef381b62069db5b02033254",
-      "title": "Universal scaling of brine migration in ice",
-      "url": "https://arxiv.org/abs/2611.22765",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0b85e6ea1407b10756bbdbd5",
-      "title": "Electrical addressing of compensated magnetic order in artificial spin ice",
-      "url": "https://arxiv.org/abs/2611.22912",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "eff26974e1d7f37cce4644d0",
-      "title": "Sobolev theory for the inverse problem of time-dependent density functional theory on the torus",
-      "url": "https://arxiv.org/abs/2611.22942",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "f226fa51419450b8a148a832",
-      "title": "Indentation of pre-tensioned cortex-like fibre networks: tension, local stretching and the signature of defect architecture",
-      "url": "https://arxiv.org/abs/2611.23002",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "c76d28ffde8e93c5947e29da",
-      "title": "Evidence for crystal-field-selected octupolar order in wolframite oxides",
-      "url": "https://arxiv.org/abs/2503.18694",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "c6ebe6bb6dbb751181827b3b",
-      "title": "An open dataset of gas adsorption in deformable metal-organic frameworks for direct air capture",
-      "url": "https://arxiv.org/abs/2508.03162",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "caaf399822ed4e3c887f796c",
-      "title": "Coherent high-velocity chiral magnons in the metallic altermagnet CrSb",
-      "url": "https://arxiv.org/abs/2511.16086",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e75fdabf2fa0431d3de100bb",
-      "title": "Substrate Role in Polaron Formation on Single-layer Transition Metal Dihalides",
-      "url": "https://arxiv.org/abs/2512.21163",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "145e8bd7684a6483bc88e7bb",
-      "title": "Systematic comparison of approximations and functionals in first-principle calculations of aluminum-based III-V ferroelectric nitrides",
-      "url": "https://arxiv.org/abs/2605.24334",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "b4021fbdde1d140cf74037a5",
-      "title": "Defect-trapped hydrogen couples stress-triggered atomic decohesion with explosive crack growth",
-      "url": "https://arxiv.org/abs/2606.03298",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "064f97dcd732bb5ee7efa5d2",
-      "title": "Mechanism-Dependent Descriptors for Oxygen Capacity in Perovskite Oxides",
-      "url": "https://arxiv.org/abs/2607.29014",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "bbed80b998fef9744e6ad5a7",
-      "title": "Suppression of Grain Boundary Nitrogen Degradation by Boron in Superalloys",
-      "url": "https://arxiv.org/abs/2610.30451",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e1a5d5c59ee36c35e22171b8",
-      "title": "Giant Raman Optical Activity in Chiral and Polar Ni$_3$TeO$_6$",
-      "url": "https://arxiv.org/abs/2611.19983",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "a02fdc575c3d60f0f44beb8f",
-      "title": "Interface-Selective Extreme Ultraviolet Second Harmonic Generation Away from Linear Absorption Edges",
-      "url": "https://arxiv.org/abs/2611.20198",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4c2ef7a536683bed41ce43aa",
-      "title": "Phonon-mediated intrinsic topological superconductivity in Fermi arcs",
-      "url": "https://arxiv.org/abs/2506.03250",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "26ebca3b0262813f06afb8aa",
-      "title": "Topological Control of Polaritonic Flatbands in Anisotropic van der Waals Metasurfaces",
-      "url": "https://arxiv.org/abs/2509.01258",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0d35cca11bf6d396f6e16024",
-      "title": "Moir\\'e Engineering of Square-Lattice Hubbard Models for Copper- and Iron-Based Superconductors",
-      "url": "https://arxiv.org/abs/2603.11153",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ec78ffa898b0c0c0b700508c",
-      "title": "A closed-loop framework for perovskite precursor additive discovery",
-      "url": "https://arxiv.org/abs/2605.20242",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8462ed05f855b95d7f60a753",
-      "title": "Field-induced first order transitions and phase coexistence in the Kitaev quantum spin liquid candidate BaCo2(AsO4)2",
-      "url": "https://arxiv.org/abs/2607.15346",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ae4b0d4806dfd5f2f5a77392",
-      "title": "Predictive beam-lattice reduction for higher-order topological modes in a 2D SSH phononic crystal",
-      "url": "https://arxiv.org/abs/2608.06395",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "52b1b18897220d611ac69917",
-      "title": "Mixture of Polyconvex Neural Potentials for Parametric Hyperelasticity: Towards Foundation Material Models",
-      "url": "https://arxiv.org/abs/2609.00359",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "54aa53b9ee3df0d44a99e4be",
-      "title": "Compositional neural networks for multimodal X-ray and neutron scattering inversion",
-      "url": "https://arxiv.org/abs/2610.29362",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "5019aa2d7c8da75f8550d641",
-      "title": "MatOS: An Agent Operating System for Materials Research",
-      "url": "https://arxiv.org/abs/2610.34203",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "1e448883e79fabf049ffc9cd",
-      "title": "Helium States Inspired by Quantum Photonics Circuit",
-      "url": "https://arxiv.org/abs/2611.06448",
-      "source": "arXiv Materials Science",
-      "source_id": "arxiv-materials",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "materials science"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0c3b422e65819974057df4da",
-      "title": "Radiation Response of NbN Superconducting Nanowire Single-Photon Detectors Under $^{210}$Po Alpha-Particle Irradiation",
-      "url": "https://arxiv.org/abs/2611.21762",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ba4ecac235f6e886c3776966",
-      "title": "Spatiotemporal programming of shape memory polymers for tunable vibration responses",
-      "url": "https://arxiv.org/abs/2611.21930",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "3d273fcc66f128f0b0337022",
-      "title": "Development and Validation of a preCICE Based OpenMOC OpenFOAM Coupling Framework for Nuclear Reactor Analysis",
-      "url": "https://arxiv.org/abs/2611.22393",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e5591f7a7e569bd5dda8b35e",
-      "title": "Thermal and Acoustic Measurements of Hybrid Bonding Stacks",
-      "url": "https://arxiv.org/abs/2611.22694",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "d7cfcc8007460759bda4bc8c",
-      "title": "Quantum amplification with a linear quantum coupler",
-      "url": "https://arxiv.org/abs/2611.23188",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "d17214f62d88437a182a82ce",
-      "title": "Terahertz emission from $\\alpha$-W/CoFe epitaxial spintronic emitters",
-      "url": "https://arxiv.org/abs/2401.10123",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "d0fc4c4d8c36b1e7f94e463a",
-      "title": "Measurement and Modeling of Structure-Induced Surface Scattering on Terahertz Channel",
-      "url": "https://arxiv.org/abs/2602.24029",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "787449a34ac34cbbd937da7f",
-      "title": "Overcoming configuration bottleneck: Modular pathways to stable semiconductor spin-qubit arrays",
-      "url": "https://arxiv.org/abs/2606.30883",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "6a4d4af1ee30c7e81030419c",
-      "title": "Proof-of-principle long-distance Sagnac twin-field quantum key distribution network",
-      "url": "https://arxiv.org/abs/2609.04447",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "66068cb1a859e14edf8b3971",
-      "title": "The Impact of Scenario Representation in Scenario-based Optimization Certification",
-      "url": "https://arxiv.org/abs/2611.21795",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "3ecf31f8f0cdd076a834cadc",
-      "title": "Mechanism Design and Active Systems Theory: 60 Years of Parallel Development",
-      "url": "https://arxiv.org/abs/2611.21803",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "ae20f4bf2b883229b690dea7",
-      "title": "Tie-Line Scheduling Using Real-Time Contraction Metrics: Hierarchical Reachable Sets for Multi-Area Inverter-Dominated Grids",
-      "url": "https://arxiv.org/abs/2611.21858",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "94dfdda11c71b21352571a1a",
-      "title": "Who Gets the Grid Capacity? Allocating Dynamic Access Among Multiple Virtual Power Plants",
-      "url": "https://arxiv.org/abs/2611.21981",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "296978a3b639431b878a3345",
-      "title": "Emerging Vertical Power Delivery in AI Data Centers: Challenges and Solutions",
-      "url": "https://arxiv.org/abs/2611.21982",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "db503fb44d56b8f4edda0262",
-      "title": "First-Order Model-Free Policy Gradient for Undiscounted LQR with Global Optimality and Convergence Guarantees",
-      "url": "https://arxiv.org/abs/2611.21985",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e8da0289f271fb91ca8a88c1",
-      "title": "Safe Reinforcement Learning with Hard Constraints: Policy Gradient Methods with Intersample Guarantees",
-      "url": "https://arxiv.org/abs/2611.21987",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8c7e273b718750b2729f0a2a",
-      "title": "PS-HalluBench: Taxonomy-Driven Benchmarking of LLM Hallucinations in Power Systems",
-      "url": "https://arxiv.org/abs/2611.22012",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "41cc44cfd359126ce5c9abdb",
-      "title": "An Explainable Agentic AI Framework for Distribution System Load Restoration",
-      "url": "https://arxiv.org/abs/2611.22016",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e987292117d9cb67deddf111",
-      "title": "Grid-Aware Assessment of Forced Oscillations from Spatially Distributed Large Loads",
-      "url": "https://arxiv.org/abs/2611.22056",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "af1b9d92fa438a9d611e7673",
-      "title": "FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization",
-      "url": "https://arxiv.org/abs/2611.22061",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "7bbb7682d9a76aae2b6ff94e",
-      "title": "Facet-offset Polytope Expansion for Dynamic Operating Envelopes of Aggregated Distribution Grid Resources",
-      "url": "https://arxiv.org/abs/2611.22081",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9b5cb6051cca81202f457d4f",
-      "title": "Stability-Constrained Imitation Learning for Performance-Guaranteed Neural Feedback Frequency Control in Microgrids",
-      "url": "https://arxiv.org/abs/2611.22129",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "17dd91c581b924c2d3823ab0",
-      "title": "AI Agents Executing an RMS and EMT Ride-Through Workflow on a 2,000-Bus Synthetic Texas Grid: A Case Study with Open-Source Tools",
-      "url": "https://arxiv.org/abs/2611.22167",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "2629987c9ccb2c075b0370b5",
-      "title": "Benchmarking a Grid Foundation Model for AC Optimal Power Flow: Feasibility and Warm-Start Results on Synthetic Texas and South Carolina Grids",
-      "url": "https://arxiv.org/abs/2611.22181",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "5edbe953ef833bd926934f6e",
-      "title": "Grid-Responsive Pricing of Dynamic Wireless Charging with Coupled Residential Demand",
-      "url": "https://arxiv.org/abs/2611.22197",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9ca3efd7e591fd8e1a9288c9",
-      "title": "Safely Mitigating Grid Imbalance: A Hybrid Distributional Wide-Margin Recourse Approach",
-      "url": "https://arxiv.org/abs/2611.22220",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9bf2ca531cb71e005cd1a29c",
-      "title": "Solver-Free and Cost-Aware Online Scheduling of AI Data Center Tasks",
-      "url": "https://arxiv.org/abs/2611.22239",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "4f8895748af3f6009039716c",
-      "title": "Optimal Energy and LLM Task Scheduling for Multiple Cloud Data Centers",
-      "url": "https://arxiv.org/abs/2611.22242",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "40a2153ded675a35cc665716",
-      "title": "Connections Between Instrumental Variable, Pseudo-Linear Regression, and Prediction Error Methods in Terms of Their Minimized Criteria",
-      "url": "https://arxiv.org/abs/2611.22349",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "efa788c1261bb5293a1a9091",
-      "title": "Data-driven model reduction: An identification perspective using Generalized Bases of Orthonormal Functions",
-      "url": "https://arxiv.org/abs/2611.22354",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "9943f9a824bd351c927540ff",
-      "title": "Explicit Dual Model Predictive Path Integral Control",
-      "url": "https://arxiv.org/abs/2611.22369",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "e3a36287d51f0a2ed3b578a6",
-      "title": "Model Augmentation for thermo-mechanical hysteretic dynamics",
-      "url": "https://arxiv.org/abs/2611.22413",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "720c5333d6dfb452c4ded700",
-      "title": "MARS: Feature-guided physics-informed deep learning for real-time battery health and lifetime prediction",
-      "url": "https://arxiv.org/abs/2611.22455",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "19a8ff9203b7d2243a1867d4",
-      "title": "A Discrete Digital Isolator with Shielded Planar Transformer for Gate Driver Applications",
-      "url": "https://arxiv.org/abs/2611.22520",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0a9cd695719b66bd4daa8a5b",
-      "title": "Classical heat exchanger fouling-resistance laws as first-moment identities of additive stochastic deposition",
-      "url": "https://arxiv.org/abs/2611.22808",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "cc5d6a3ecadd462830ef7726",
-      "title": "Capacity Credit of Data-Centre Flexibility: The Role of Workload Scheduling and Usable Battery Energy",
-      "url": "https://arxiv.org/abs/2611.22814",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "d286a89e0cc68101572f6173",
-      "title": "On the recursive feasibility and stability of MPC without terminal constraints",
-      "url": "https://arxiv.org/abs/2611.23017",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
-      "topics": [
-        "systems and control"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "c67d00ddbf6b70a6a231b9c3",
-      "title": "Satisfiability Modulo Theories for Robust Synthesis of Signal Temporal Logic Specifications",
-      "url": "https://arxiv.org/abs/2611.23021",
-      "source": "arXiv Systems and Control",
-      "source_id": "arxiv-systems",
-      "published_at": "2026-11-18T05:00:00Z",
       "topics": [
         "systems and control"
       ],
