@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T16:43:07.426732Z",
-  "last_successful_at": "2026-11-27T16:43:07.426732Z",
+  "generated_at": "2026-11-28T15:34:36.849278Z",
+  "last_successful_at": "2026-11-28T15:34:36.849278Z",
   "status": "partial",
   "coverage_note": "Collection is limited to registered automatic feeds; manual-only and disabled sources are not checked. No claim of comprehensive jurisdiction coverage.",
   "sources": [
@@ -12,13 +12,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 4,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -28,13 +28,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -44,13 +44,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 17,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -60,13 +60,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -76,13 +76,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 13,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -92,13 +92,13 @@
       "jurisdiction": "UK",
       "source_type": "government",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 20,
       "accepted_count": 20,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -108,13 +108,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -124,13 +124,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -140,13 +140,13 @@
       "jurisdiction": "International",
       "source_type": "research preprints",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 0,
       "accepted_count": 0,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -156,13 +156,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 100,
       "accepted_count": 100,
-      "in_window_count": 100,
+      "in_window_count": 98,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -172,13 +172,13 @@
       "jurisdiction": "United States",
       "source_type": "court",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 100,
       "accepted_count": 100,
-      "in_window_count": 6,
+      "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -188,13 +188,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 1025,
       "accepted_count": 1025,
       "in_window_count": 28,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -204,13 +204,13 @@
       "jurisdiction": "EPO/EPC",
       "source_type": "IP tribunal",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 114,
       "accepted_count": 114,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -220,13 +220,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -236,13 +236,13 @@
       "jurisdiction": "International",
       "source_type": "IP organisation",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -252,13 +252,13 @@
       "jurisdiction": "Canada",
       "source_type": "IP office",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 12,
       "accepted_count": 12,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -268,7 +268,7 @@
       "jurisdiction": "Canada",
       "source_type": "government innovation",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": null,
       "accepted_count": null,
       "in_window_count": null,
@@ -285,13 +285,13 @@
       "jurisdiction": "Canada",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 32,
       "accepted_count": 32,
       "in_window_count": 0,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -301,13 +301,13 @@
       "jurisdiction": "Canada",
       "source_type": "government energy",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 50,
       "accepted_count": 50,
-      "in_window_count": 22,
+      "in_window_count": 28,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -317,13 +317,13 @@
       "jurisdiction": "United States",
       "source_type": "government research",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 5,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -333,13 +333,13 @@
       "jurisdiction": "United States",
       "source_type": "government technology",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 1,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -349,13 +349,13 @@
       "jurisdiction": "United States",
       "source_type": "government commercialisation",
       "language": "en",
-      "checked_at": "2026-11-27T16:43:07.426732Z",
+      "checked_at": "2026-11-28T15:34:36.849278Z",
       "raw_count": 10,
       "accepted_count": 10,
       "in_window_count": 2,
       "invalid_count": 0,
       "dateless_count": 0,
-      "last_successful_at": "2026-11-27T16:43:07.426732Z",
+      "last_successful_at": "2026-11-28T15:34:36.849278Z",
       "status": "complete"
     },
     {
@@ -472,6 +472,139 @@
     }
   ],
   "items": [
+    {
+      "id": "2c8d4c2a0012cdc88757a4b0",
+      "title": "Parliamentary Secretary Claude Guay highlights Canada’s first-ever federal forest sector strategy in Quebec",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-claude-guay-highlights-canadas-first-ever-federal-forest-sector-strategy-in-quebec.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T20:30:27Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "895d145218f729eca9e65ca0",
+      "title": "Parliamentary Secretary Pauline Rochefort highlights Canada’s first-ever federal forest sector strategy in Ontario",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-pauline-rochefort-highlights-canadas-first-ever-federal-forest-sector-strategy-in-ontario.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T19:31:12Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "77f03a9210c36774e0a823ef",
+      "title": "Backgrounder: Forest Sector Strategy for Canada: Investments in Ontario",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/backgrounder-forest-sector-strategy-for-canada-investments-in-ontario.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T19:31:07Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "65ccc9a731907c9b026088c5",
+      "title": "Parliamentary Secretary Blois highlights Canada’s first-ever federal forest sector strategy in Atlantic Canada",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/parliamentary-secretary-blois-highlights-canadas-first-ever-federal-forest-sector-strategy-in-atlantic-canada.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T18:35:54Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "8bb8170da94533431b37c5c9",
+      "title": "Minister Hodgson unveils first-ever federal strategy for Canada’s forest sector",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-unveils-first-ever-federal-strategy-for-canadas-forest-sector.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T17:43:14Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "ca2a33b270e33df907605797",
+      "title": "Minister Hodgson unveils first-ever federal strategy for Canada's forest sector",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/minister-hodgson-unveils-first-ever-federal-strategy-for-canadas-forest-sector0.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T17:42:52Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
+    {
+      "id": "905412f60d0c1b5c1be29666",
+      "title": "Forest Sector Strategy for Canada: Investments in British Columbia",
+      "url": "https://www.canada.ca/en/natural-resources-canada/news/2026/11/forest-sector-strategy-for-canada-investments-in-british-columbia.html",
+      "source": "Natural Resources Canada",
+      "source_id": "canada-resources",
+      "published_at": "2026-11-27T17:42:39Z",
+      "topics": [
+        "energy"
+      ],
+      "domains": [
+        "technology",
+        "commercial"
+      ],
+      "summary": "",
+      "jurisdiction": "Canada",
+      "source_type": "government energy",
+      "language": "en"
+    },
     {
       "id": "e308c3f623dce937214d1d52",
       "title": "PMAC Arbitration Day explores best practices in international patent arbitration",
@@ -7909,139 +8042,6 @@
       "id": "311a2b1e47e81af9bcb04a71",
       "title": "Competing climates of the present-day Earth: from Snowball to Hothouse",
       "url": "https://arxiv.org/abs/2611.28357",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "32385d6a7e6f2380e9ef35c4",
-      "title": "Distinguishing photothermal and photoelectrokinetic contributions to flow in light-activated microchannel architectures",
-      "url": "https://arxiv.org/abs/2611.28481",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "8ee82b51b74160ed09c15b0a",
-      "title": "Efficient phase-only wavefront shaping at 250 kHz for multimode fiber endomicroscopy",
-      "url": "https://arxiv.org/abs/2611.29015",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "70190932011f99f84185bc57",
-      "title": "Uniguided and unicoupled resonances in an asymmetric acoustic metasurface",
-      "url": "https://arxiv.org/abs/2611.29078",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "5dbfee85a688e506fa45bce8",
-      "title": "Designing Incoherent Multispectral Diffractive Optical Networks for Satellite Image Classification",
-      "url": "https://arxiv.org/abs/2611.30079",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "027319fe549cb4ab57597b72",
-      "title": "A Highly Tunable (Ti,Zr)N$_x$-Based MIM Plasmonic Sensor for Multidomain Biological, Chemical, and Physical Sensing",
-      "url": "https://arxiv.org/abs/2611.30614",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "0a1d364df8110c314f287abe",
-      "title": "Physics-Based Learning of the Wave Speed Landscape in Complex Media",
-      "url": "https://arxiv.org/abs/2602.03281",
-      "source": "arXiv Applied Physics",
-      "source_id": "arxiv-physics",
-      "published_at": "2026-11-24T05:00:00Z",
-      "topics": [
-        "applied physics"
-      ],
-      "domains": [
-        "research",
-        "technology"
-      ],
-      "summary": "",
-      "jurisdiction": "International",
-      "source_type": "research preprints",
-      "language": "en"
-    },
-    {
-      "id": "941d5961cc2431b96256973f",
-      "title": "Lithium Niobate Surface-Acoustic-Wave Resonator for Very-High-Frequency Isolated Power Conversion",
-      "url": "https://arxiv.org/abs/2610.02742",
       "source": "arXiv Applied Physics",
       "source_id": "arxiv-physics",
       "published_at": "2026-11-24T05:00:00Z",
